@@ -1,0 +1,5602 @@
+[
+    {
+        "TransactionId": "7659118",
+        "Amount": 141.86,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-04-13T01:04:08",
+        "ValueDateTime": "2028-01-09T09:40:23",
+        "RemittanceInformationUnstructured": "build",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1470599"
+        },
+        "CreditorAccount": {
+            "Identification": "GB32JAKD72840205073374",
+            "SchemeName": "IBAN",
+            "Name": "Chandler-Martin",
+            "Currency": "MDL"
+        },
+        "DebtorAgent": {
+            "Identification": "3237092"
+        },
+        "DebtorAccount": {
+            "Identification": "GB29JZBK00477684871739",
+            "SchemeName": "IBAN",
+            "Name": "Becker PLC",
+            "Currency": "NOK"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "c36ae3d694a34d7688c5eaf4534477e4",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "18fcc983782d487abab3de3cd5fc62b3",
+            "MandateId": "cb817c8bfb7a48518ecd2837e8137777",
+            "ChequeNumber": "6402",
+            "TransactionReference": "20221018-111107"
+        },
+        "RelatedParties": {
+            "CreditorId": "3801810",
+            "UltimateCreditor": "Cruz-Wright",
+            "UltimateDebtor": "Ramsey, Lyons and Brock"
+        }
+    },
+    {
+        "TransactionId": "6670655",
+        "Amount": 122.48,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-08-30T18:54:28",
+        "ValueDateTime": "2028-04-22T09:23:50",
+        "RemittanceInformationUnstructured": "perhaps",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5455423"
+        },
+        "CreditorAccount": {
+            "Identification": "GB58JCJJ59369884777157",
+            "SchemeName": "IBAN",
+            "Name": "Baldwin LLC",
+            "Currency": "NIO"
+        },
+        "DebtorAgent": {
+            "Identification": "4695035"
+        },
+        "DebtorAccount": {
+            "Identification": "GB89PHAG10396227569209",
+            "SchemeName": "IBAN",
+            "Name": "Mckee-Potter",
+            "Currency": "SEK"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "57f79f8c7785438fa72348491f76d25f",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "90394b7907a449bb9a549945e9c36e60",
+            "MandateId": "63bbaba06775484eb63d2b7f31077f56",
+            "ChequeNumber": "1067",
+            "TransactionReference": "20200308-043227"
+        },
+        "RelatedParties": {
+            "CreditorId": "5993608",
+            "UltimateCreditor": "Mcconnell-Le",
+            "UltimateDebtor": "Wood, Powell and Carr"
+        }
+    },
+    {
+        "TransactionId": "3104492",
+        "Amount": 259.81,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-01-24T02:40:37",
+        "ValueDateTime": "2028-01-25T23:39:23",
+        "RemittanceInformationUnstructured": "pass",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9582001"
+        },
+        "CreditorAccount": {
+            "Identification": "GB23ZXHZ32508843873413",
+            "SchemeName": "IBAN",
+            "Name": "Simmons-Wilson",
+            "Currency": "ALL"
+        },
+        "DebtorAgent": {
+            "Identification": "9442001"
+        },
+        "DebtorAccount": {
+            "Identification": "GB56NTLC77563739980701",
+            "SchemeName": "IBAN",
+            "Name": "Gillespie LLC",
+            "Currency": "ISK"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "56e18c33c52d466084b907efbdd958f0",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "6bca992d9cb94296b75965e28b1b369b",
+            "MandateId": "3565aa95c1df407a908c30c1003293fa",
+            "ChequeNumber": "6457",
+            "TransactionReference": "20211013-000628"
+        },
+        "RelatedParties": {
+            "CreditorId": "5157698",
+            "UltimateCreditor": "Clarke-Rios",
+            "UltimateDebtor": "Scott-Carey"
+        }
+    },
+    {
+        "TransactionId": "8801300",
+        "Amount": 100.96,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-08-26T04:40:54",
+        "ValueDateTime": "2024-07-04T16:00:40",
+        "RemittanceInformationUnstructured": "know",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4138337"
+        },
+        "CreditorAccount": {
+            "Identification": "GB94CRPC98578667316975",
+            "SchemeName": "IBAN",
+            "Name": "Fitzgerald, Sullivan and Manning",
+            "Currency": "LRD"
+        },
+        "DebtorAgent": {
+            "Identification": "3858529"
+        },
+        "DebtorAccount": {
+            "Identification": "GB27CZQG26667572241570",
+            "SchemeName": "IBAN",
+            "Name": "Maddox-Williamson",
+            "Currency": "BIF"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "26c476e6b88d47cfbc4c6eb8fd163258",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "95a0c9127c7a4d94aa9f7d58af1ceeb4",
+            "MandateId": "75b6f714b29e4e90bd38f52236e1eefb",
+            "ChequeNumber": "1618",
+            "TransactionReference": "20200118-035655"
+        },
+        "RelatedParties": {
+            "CreditorId": "5555933",
+            "UltimateCreditor": "Thomas Inc",
+            "UltimateDebtor": "Murphy-Wood"
+        }
+    },
+    {
+        "TransactionId": "4097035",
+        "Amount": 240.4,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-05-07T03:09:08",
+        "ValueDateTime": "2027-01-28T11:42:36",
+        "RemittanceInformationUnstructured": "economy",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2475087"
+        },
+        "CreditorAccount": {
+            "Identification": "GB06PMRI07862740347202",
+            "SchemeName": "IBAN",
+            "Name": "Stewart-Williams",
+            "Currency": "PEN"
+        },
+        "DebtorAgent": {
+            "Identification": "7473078"
+        },
+        "DebtorAccount": {
+            "Identification": "GB11MCIC70616739000676",
+            "SchemeName": "IBAN",
+            "Name": "Chen, Mcgee and Moore",
+            "Currency": "SAR"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "82bf51b2b0a04444a6c0fb18d4e9132d",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "008a883572ab41208e4265c49b9f0222",
+            "MandateId": "c9f4ee2c0dee4332985aa74064c5cd72",
+            "ChequeNumber": "2575",
+            "TransactionReference": "20220716-234311"
+        },
+        "RelatedParties": {
+            "CreditorId": "6847933",
+            "UltimateCreditor": "Stark-Brown",
+            "UltimateDebtor": "Wang-Herring"
+        }
+    },
+    {
+        "TransactionId": "9916025",
+        "Amount": 445.4,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-07-30T19:37:46",
+        "ValueDateTime": "2029-02-27T10:17:04",
+        "RemittanceInformationUnstructured": "yeah",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6968208"
+        },
+        "CreditorAccount": {
+            "Identification": "GB10XHTV27750064212232",
+            "SchemeName": "IBAN",
+            "Name": "Smith Ltd",
+            "Currency": "GTQ"
+        },
+        "DebtorAgent": {
+            "Identification": "8636154"
+        },
+        "DebtorAccount": {
+            "Identification": "GB35VPSV79727860582855",
+            "SchemeName": "IBAN",
+            "Name": "Gonzales and Sons",
+            "Currency": "PGK"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "c4394f89df5a45ad96f30794f9a301cf",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "716417b772b04d49bce84de772a8bdfa",
+            "MandateId": "bac3efbc848744868e8f2836e5e580fc",
+            "ChequeNumber": "7417",
+            "TransactionReference": "20230131-183720"
+        },
+        "RelatedParties": {
+            "CreditorId": "6229640",
+            "UltimateCreditor": "Hernandez-Wilson",
+            "UltimateDebtor": "Smith-Robinson"
+        }
+    },
+    {
+        "TransactionId": "9370712",
+        "Amount": 114.57,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-05-11T23:50:59",
+        "ValueDateTime": "2029-09-21T02:40:40",
+        "RemittanceInformationUnstructured": "admit",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6436404"
+        },
+        "CreditorAccount": {
+            "Identification": "GB69WCVF33005472133888",
+            "SchemeName": "IBAN",
+            "Name": "Quinn-Hernandez",
+            "Currency": "HUF"
+        },
+        "DebtorAgent": {
+            "Identification": "9284666"
+        },
+        "DebtorAccount": {
+            "Identification": "GB75HIHC83406969650664",
+            "SchemeName": "IBAN",
+            "Name": "Armstrong, Rosales and Taylor",
+            "Currency": "GEL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "203f0c057c0146bc8b8cf8d3971cc2da",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "68a4a7199d424f08ac344d9fef90b839",
+            "MandateId": "cbdb6c5ed5f146d096fc4a3e754af45a",
+            "ChequeNumber": "7568",
+            "TransactionReference": "20220819-051947"
+        },
+        "RelatedParties": {
+            "CreditorId": "7337313",
+            "UltimateCreditor": "Boyd, Manning and Mata",
+            "UltimateDebtor": "Garrison Ltd"
+        }
+    },
+    {
+        "TransactionId": "4029203",
+        "Amount": 199.39,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-11-17T05:11:26",
+        "ValueDateTime": "2024-06-20T07:02:35",
+        "RemittanceInformationUnstructured": "school",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1344467"
+        },
+        "CreditorAccount": {
+            "Identification": "GB72TAMK65908119077027",
+            "SchemeName": "IBAN",
+            "Name": "Vazquez-Ramirez",
+            "Currency": "LSL"
+        },
+        "DebtorAgent": {
+            "Identification": "9661835"
+        },
+        "DebtorAccount": {
+            "Identification": "GB83ZCMC86662104285728",
+            "SchemeName": "IBAN",
+            "Name": "Bates, Williams and Ortiz",
+            "Currency": "GHS"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "7156ff1f9bf245f2b274f1323ad66ca3",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1d39932390fc457fbd85a9a7eb8956ff",
+            "MandateId": "929dd542d1974bda86d205e6b792d200",
+            "ChequeNumber": "4631",
+            "TransactionReference": "20210323-113254"
+        },
+        "RelatedParties": {
+            "CreditorId": "5390042",
+            "UltimateCreditor": "Jones PLC",
+            "UltimateDebtor": "Jackson LLC"
+        }
+    },
+    {
+        "TransactionId": "1048936",
+        "Amount": 575.61,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-06-12T14:22:09",
+        "ValueDateTime": "2029-07-20T12:22:52",
+        "RemittanceInformationUnstructured": "food",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4405909"
+        },
+        "CreditorAccount": {
+            "Identification": "GB92TQJD24020587383108",
+            "SchemeName": "IBAN",
+            "Name": "Mccormick-Ford",
+            "Currency": "NOK"
+        },
+        "DebtorAgent": {
+            "Identification": "4314119"
+        },
+        "DebtorAccount": {
+            "Identification": "GB63GZKA96787194395945",
+            "SchemeName": "IBAN",
+            "Name": "Thomas-Johnson",
+            "Currency": "XAF"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "21b47a60d08f49368d8bb3580c6012e5",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "61ac0995e2094e308fb05092db5520e0",
+            "MandateId": "78c81c1b785346afaa74a544855dc186",
+            "ChequeNumber": "1304",
+            "TransactionReference": "20201123-084440"
+        },
+        "RelatedParties": {
+            "CreditorId": "1318180",
+            "UltimateCreditor": "Allen, Anderson and Vincent",
+            "UltimateDebtor": "Reese PLC"
+        }
+    },
+    {
+        "TransactionId": "5557165",
+        "Amount": 277.99,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-11-11T18:19:23",
+        "ValueDateTime": "2028-04-13T13:19:05",
+        "RemittanceInformationUnstructured": "culture",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9952162"
+        },
+        "CreditorAccount": {
+            "Identification": "GB55VMUU91004041958101",
+            "SchemeName": "IBAN",
+            "Name": "Rivera-Cervantes",
+            "Currency": "CNY"
+        },
+        "DebtorAgent": {
+            "Identification": "8918743"
+        },
+        "DebtorAccount": {
+            "Identification": "GB48TCSI60842902241310",
+            "SchemeName": "IBAN",
+            "Name": "Pugh, Marquez and Patton",
+            "Currency": "MRO"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "b3e2b96c6db643fa8aa58c489cd001b5",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "b40634c2e98a482c9906dcbc24017186",
+            "MandateId": "383b731d98dd43f581a9a5737090f650",
+            "ChequeNumber": "2847",
+            "TransactionReference": "20200607-221310"
+        },
+        "RelatedParties": {
+            "CreditorId": "7609362",
+            "UltimateCreditor": "Tate-Dorsey",
+            "UltimateDebtor": "Ford-Barry"
+        }
+    },
+    {
+        "TransactionId": "6380607",
+        "Amount": 655.65,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-04-05T22:35:50",
+        "ValueDateTime": "2027-06-11T05:03:53",
+        "RemittanceInformationUnstructured": "somebody",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7109059"
+        },
+        "CreditorAccount": {
+            "Identification": "GB87IKNF38035350427394",
+            "SchemeName": "IBAN",
+            "Name": "Nelson-Thompson",
+            "Currency": "TOP"
+        },
+        "DebtorAgent": {
+            "Identification": "2556251"
+        },
+        "DebtorAccount": {
+            "Identification": "GB10FABE42692766558809",
+            "SchemeName": "IBAN",
+            "Name": "Wilson PLC",
+            "Currency": "MWK"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "2b32b59e36ee47e7bb78f72cbc4b0ef0",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "8213909932fa40968724c80fdfecfd8a",
+            "MandateId": "8fb562496e874377a325146336c22b18",
+            "ChequeNumber": "8848",
+            "TransactionReference": "20230228-201531"
+        },
+        "RelatedParties": {
+            "CreditorId": "1836703",
+            "UltimateCreditor": "Davis PLC",
+            "UltimateDebtor": "Henry, Gibson and Anderson"
+        }
+    },
+    {
+        "TransactionId": "6733495",
+        "Amount": 930.72,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-01-19T11:27:52",
+        "ValueDateTime": "2028-12-07T14:09:13",
+        "RemittanceInformationUnstructured": "difficult",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2908734"
+        },
+        "CreditorAccount": {
+            "Identification": "GB29UXTF78891127680019",
+            "SchemeName": "IBAN",
+            "Name": "Hernandez, Morgan and Waters",
+            "Currency": "BOB"
+        },
+        "DebtorAgent": {
+            "Identification": "9764729"
+        },
+        "DebtorAccount": {
+            "Identification": "GB71PXIT69932337504756",
+            "SchemeName": "IBAN",
+            "Name": "Wallace LLC",
+            "Currency": "GBP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "61e43f43b03640c08b1a9d8512d2c388",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "41528f6148514c8b93e2bddcf7808c15",
+            "MandateId": "63b21a17f1a84c14a9c09e2ec6f69485",
+            "ChequeNumber": "7461",
+            "TransactionReference": "20230610-011743"
+        },
+        "RelatedParties": {
+            "CreditorId": "5576882",
+            "UltimateCreditor": "Taylor-Edwards",
+            "UltimateDebtor": "Wood Ltd"
+        }
+    },
+    {
+        "TransactionId": "5511232",
+        "Amount": 600.61,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-07-26T23:55:44",
+        "ValueDateTime": "2026-03-13T02:35:07",
+        "RemittanceInformationUnstructured": "husband",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9465899"
+        },
+        "CreditorAccount": {
+            "Identification": "GB89DIHW87732220605621",
+            "SchemeName": "IBAN",
+            "Name": "Green, Phillips and Ryan",
+            "Currency": "BBD"
+        },
+        "DebtorAgent": {
+            "Identification": "8358553"
+        },
+        "DebtorAccount": {
+            "Identification": "GB32QWAE52076062900910",
+            "SchemeName": "IBAN",
+            "Name": "Tucker Ltd",
+            "Currency": "AED"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c6f2cc8687534ae39664622b7b08fc27",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "c6a54282966e47b28c80af080545e0e3",
+            "MandateId": "3402935615984f6cbe0cb6b776d1a278",
+            "ChequeNumber": "3175",
+            "TransactionReference": "20220523-010012"
+        },
+        "RelatedParties": {
+            "CreditorId": "5759359",
+            "UltimateCreditor": "Hall, Gonzales and Keith",
+            "UltimateDebtor": "Shaw-Young"
+        }
+    },
+    {
+        "TransactionId": "4670334",
+        "Amount": 728.84,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-10-16T09:30:52",
+        "ValueDateTime": "2027-10-29T02:50:20",
+        "RemittanceInformationUnstructured": "safe",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1039945"
+        },
+        "CreditorAccount": {
+            "Identification": "GB02MFGM81014103246969",
+            "SchemeName": "IBAN",
+            "Name": "Mosley, Juarez and Saunders",
+            "Currency": "KYD"
+        },
+        "DebtorAgent": {
+            "Identification": "9823968"
+        },
+        "DebtorAccount": {
+            "Identification": "GB76IKSY71692252972189",
+            "SchemeName": "IBAN",
+            "Name": "Kelly, Green and George",
+            "Currency": "YER"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "2f8a01603f2145b8b2eaad342e24bc8d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "834fdb35e5e843e18aa4ab6d60909069",
+            "MandateId": "dca2849eb84a4608a4cba5734d3051bb",
+            "ChequeNumber": "6060",
+            "TransactionReference": "20200616-000758"
+        },
+        "RelatedParties": {
+            "CreditorId": "3263139",
+            "UltimateCreditor": "Copeland-Tanner",
+            "UltimateDebtor": "Avila, Hill and Lewis"
+        }
+    },
+    {
+        "TransactionId": "6337485",
+        "Amount": 499.22,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-09-29T06:29:25",
+        "ValueDateTime": "2025-06-23T13:17:15",
+        "RemittanceInformationUnstructured": "energy",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3737458"
+        },
+        "CreditorAccount": {
+            "Identification": "GB35GPRZ06743695704948",
+            "SchemeName": "IBAN",
+            "Name": "Robles, Lane and Bell",
+            "Currency": "LSL"
+        },
+        "DebtorAgent": {
+            "Identification": "6976336"
+        },
+        "DebtorAccount": {
+            "Identification": "GB59SKOG54607903747961",
+            "SchemeName": "IBAN",
+            "Name": "Forbes, Le and Ramirez",
+            "Currency": "ARS"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "5562893b590a4b29b2f4156883d02215",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "eefce123d2b349eda28a0c34307ed53c",
+            "MandateId": "21f1d252d1334edbb0a86e94f3589548",
+            "ChequeNumber": "9302",
+            "TransactionReference": "20210114-033058"
+        },
+        "RelatedParties": {
+            "CreditorId": "3370029",
+            "UltimateCreditor": "Hernandez, Ramirez and Vaughan",
+            "UltimateDebtor": "Gillespie PLC"
+        }
+    },
+    {
+        "TransactionId": "1914717",
+        "Amount": 874.11,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-11-17T18:05:00",
+        "ValueDateTime": "2024-06-12T08:33:08",
+        "RemittanceInformationUnstructured": "force",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6605841"
+        },
+        "CreditorAccount": {
+            "Identification": "GB90MSND03458999868095",
+            "SchemeName": "IBAN",
+            "Name": "Johnson, Wright and Davies",
+            "Currency": "AED"
+        },
+        "DebtorAgent": {
+            "Identification": "4137627"
+        },
+        "DebtorAccount": {
+            "Identification": "GB61PFOB30518092130703",
+            "SchemeName": "IBAN",
+            "Name": "Davis, Hall and West",
+            "Currency": "ZAR"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "aadbc45f888046b29bcee47e66eafdf1",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0673b0020087456ab39da22ff97db1a6",
+            "MandateId": "28c656dd238e462e90c44e04ecea08df",
+            "ChequeNumber": "5744",
+            "TransactionReference": "20210504-004719"
+        },
+        "RelatedParties": {
+            "CreditorId": "2448239",
+            "UltimateCreditor": "Nelson, Johnson and Dawson",
+            "UltimateDebtor": "Berger PLC"
+        }
+    },
+    {
+        "TransactionId": "3534293",
+        "Amount": 629.11,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-14T16:10:36",
+        "ValueDateTime": "2024-11-11T15:24:35",
+        "RemittanceInformationUnstructured": "relate",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4531946"
+        },
+        "CreditorAccount": {
+            "Identification": "GB57IHQW34257668017651",
+            "SchemeName": "IBAN",
+            "Name": "Miranda PLC",
+            "Currency": "GBP"
+        },
+        "DebtorAgent": {
+            "Identification": "5370034"
+        },
+        "DebtorAccount": {
+            "Identification": "GB96NORA91851564908433",
+            "SchemeName": "IBAN",
+            "Name": "Dixon-Bush",
+            "Currency": "XPF"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ee116e2946a84aba98aebacffea67e4c",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "89e7ce0aaef84f12b55056393260ea79",
+            "MandateId": "518dcc6fe2bd4063b60dfbe7416546c5",
+            "ChequeNumber": "1667",
+            "TransactionReference": "20200616-100614"
+        },
+        "RelatedParties": {
+            "CreditorId": "1876021",
+            "UltimateCreditor": "Carter Group",
+            "UltimateDebtor": "Johnson-Jones"
+        }
+    },
+    {
+        "TransactionId": "1503786",
+        "Amount": 819.5,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-04-10T23:57:22",
+        "ValueDateTime": "2025-08-05T02:53:49",
+        "RemittanceInformationUnstructured": "spring",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8015648"
+        },
+        "CreditorAccount": {
+            "Identification": "GB04GCGD98094401645160",
+            "SchemeName": "IBAN",
+            "Name": "Wilson-Mason",
+            "Currency": "OMR"
+        },
+        "DebtorAgent": {
+            "Identification": "9318628"
+        },
+        "DebtorAccount": {
+            "Identification": "GB46HMWE97297185706657",
+            "SchemeName": "IBAN",
+            "Name": "Jones-Scott",
+            "Currency": "CLP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "a7326170288a48c5a15c43e7fd9940e1",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "f92ecc79ef8d4b80b92b16ace8b5800b",
+            "MandateId": "023f2290f3dd48bb8b1f4a98448e76c7",
+            "ChequeNumber": "7890",
+            "TransactionReference": "20220414-145707"
+        },
+        "RelatedParties": {
+            "CreditorId": "1012410",
+            "UltimateCreditor": "Hart Ltd",
+            "UltimateDebtor": "Lopez, Browning and Bernard"
+        }
+    },
+    {
+        "TransactionId": "6510792",
+        "Amount": 999.92,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-03-19T15:56:33",
+        "ValueDateTime": "2027-05-03T17:27:35",
+        "RemittanceInformationUnstructured": "weight",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4485962"
+        },
+        "CreditorAccount": {
+            "Identification": "GB36EUKI43129829345014",
+            "SchemeName": "IBAN",
+            "Name": "Hernandez-Barr",
+            "Currency": "IMP"
+        },
+        "DebtorAgent": {
+            "Identification": "2471620"
+        },
+        "DebtorAccount": {
+            "Identification": "GB37JUBF70939461498472",
+            "SchemeName": "IBAN",
+            "Name": "Gutierrez Ltd",
+            "Currency": "NPR"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "41a4cb510057408f903f6f81ef356a66",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "f31ecb7731bd4d50aae5628c5af00622",
+            "MandateId": "e1771c15458e42009dc86648a4e96dbb",
+            "ChequeNumber": "4392",
+            "TransactionReference": "20220731-042957"
+        },
+        "RelatedParties": {
+            "CreditorId": "9790086",
+            "UltimateCreditor": "Reeves-Lester",
+            "UltimateDebtor": "Jones-Lee"
+        }
+    },
+    {
+        "TransactionId": "4281295",
+        "Amount": 892.74,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-11-13T08:10:27",
+        "ValueDateTime": "2026-07-06T21:31:49",
+        "RemittanceInformationUnstructured": "probably",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3005424"
+        },
+        "CreditorAccount": {
+            "Identification": "GB62TFXC19951988271159",
+            "SchemeName": "IBAN",
+            "Name": "Ayers-Jones",
+            "Currency": "STD"
+        },
+        "DebtorAgent": {
+            "Identification": "4017125"
+        },
+        "DebtorAccount": {
+            "Identification": "GB58ZSTZ83685575652029",
+            "SchemeName": "IBAN",
+            "Name": "Harris, Adams and Cunningham",
+            "Currency": "FKP"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "a201a3cd59664fc29b86b4aa2defe0c8",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "fc148840114b4834b2556895192ba240",
+            "MandateId": "8963a6dac69c4b159337d24755d2f8e2",
+            "ChequeNumber": "3938",
+            "TransactionReference": "20200830-231628"
+        },
+        "RelatedParties": {
+            "CreditorId": "9541657",
+            "UltimateCreditor": "Nelson, Anderson and Goodman",
+            "UltimateDebtor": "Burns-Ochoa"
+        }
+    },
+    {
+        "TransactionId": "2597847",
+        "Amount": 279.99,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-03-28T01:24:57",
+        "ValueDateTime": "2029-08-17T09:09:03",
+        "RemittanceInformationUnstructured": "popular",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1387107"
+        },
+        "CreditorAccount": {
+            "Identification": "GB69ANQR27840512018495",
+            "SchemeName": "IBAN",
+            "Name": "Obrien Inc",
+            "Currency": "LBP"
+        },
+        "DebtorAgent": {
+            "Identification": "9877747"
+        },
+        "DebtorAccount": {
+            "Identification": "GB66KLJL20040911628196",
+            "SchemeName": "IBAN",
+            "Name": "Taylor-Aguirre",
+            "Currency": "MZN"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "6c281e82d2c144c3bad9f8c32c87a6d5",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "73a99d9a5f0b4fbbafd7c0c1238773d6",
+            "MandateId": "4083f65b708a4318927614ee971855aa",
+            "ChequeNumber": "8158",
+            "TransactionReference": "20221127-000443"
+        },
+        "RelatedParties": {
+            "CreditorId": "3887570",
+            "UltimateCreditor": "James-Spencer",
+            "UltimateDebtor": "Smith LLC"
+        }
+    },
+    {
+        "TransactionId": "6219277",
+        "Amount": 283.7,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-05-11T12:17:35",
+        "ValueDateTime": "2029-08-21T11:07:40",
+        "RemittanceInformationUnstructured": "indeed",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8156528"
+        },
+        "CreditorAccount": {
+            "Identification": "GB78TNTV84096832611772",
+            "SchemeName": "IBAN",
+            "Name": "Foster Ltd",
+            "Currency": "MWK"
+        },
+        "DebtorAgent": {
+            "Identification": "9621297"
+        },
+        "DebtorAccount": {
+            "Identification": "GB04MIRO66342757556057",
+            "SchemeName": "IBAN",
+            "Name": "Raymond-Carroll",
+            "Currency": "XCD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "8545a01850a443048c8ced963b0085af",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "63bdca6350994da39447baa7734d8fee",
+            "MandateId": "0bebade97a6f42289b227e5615b578d1",
+            "ChequeNumber": "3687",
+            "TransactionReference": "20211221-170655"
+        },
+        "RelatedParties": {
+            "CreditorId": "4638589",
+            "UltimateCreditor": "Moore, Conner and Gardner",
+            "UltimateDebtor": "Jordan-Holder"
+        }
+    },
+    {
+        "TransactionId": "9469919",
+        "Amount": 533.37,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-06T08:53:36",
+        "ValueDateTime": "2029-06-01T01:09:39",
+        "RemittanceInformationUnstructured": "expert",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5009410"
+        },
+        "CreditorAccount": {
+            "Identification": "GB68HQNL87192130324908",
+            "SchemeName": "IBAN",
+            "Name": "Tate, Rose and Jones",
+            "Currency": "MOP"
+        },
+        "DebtorAgent": {
+            "Identification": "3218092"
+        },
+        "DebtorAccount": {
+            "Identification": "GB29SOMJ08847890310369",
+            "SchemeName": "IBAN",
+            "Name": "Clark, Lowe and Guerra",
+            "Currency": "ALL"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "6604ab18579b43f19fc205edf3b61eec",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "958520115f184397ae21aa5d96aa9ee0",
+            "MandateId": "29192cd62f4042ad89fffac0fef5ad6b",
+            "ChequeNumber": "3199",
+            "TransactionReference": "20230406-213042"
+        },
+        "RelatedParties": {
+            "CreditorId": "4928712",
+            "UltimateCreditor": "Simmons-Werner",
+            "UltimateDebtor": "Perkins LLC"
+        }
+    },
+    {
+        "TransactionId": "8795990",
+        "Amount": 816.88,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-05-24T08:59:33",
+        "ValueDateTime": "2026-09-30T14:53:42",
+        "RemittanceInformationUnstructured": "describe",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4603473"
+        },
+        "CreditorAccount": {
+            "Identification": "GB39IOTH36715420378555",
+            "SchemeName": "IBAN",
+            "Name": "Carlson, Mcmahon and Ramos",
+            "Currency": "FKP"
+        },
+        "DebtorAgent": {
+            "Identification": "8221730"
+        },
+        "DebtorAccount": {
+            "Identification": "GB33IRKL32084749821126",
+            "SchemeName": "IBAN",
+            "Name": "Crawford, Reese and Davis",
+            "Currency": "VND"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "6a9d3f7cb7c142c19d150f8b14af47fc",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "b0f3cd0c5d994d7fb164538f175f532d",
+            "MandateId": "a28e807856df4a3da05db57afebf7146",
+            "ChequeNumber": "9694",
+            "TransactionReference": "20201024-163126"
+        },
+        "RelatedParties": {
+            "CreditorId": "2221613",
+            "UltimateCreditor": "Cooper, Robinson and Price",
+            "UltimateDebtor": "Petersen Inc"
+        }
+    },
+    {
+        "TransactionId": "1270127",
+        "Amount": 159.33,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-08-10T11:58:31",
+        "ValueDateTime": "2025-12-11T04:49:56",
+        "RemittanceInformationUnstructured": "become",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1319440"
+        },
+        "CreditorAccount": {
+            "Identification": "GB13ZGPH12517202722651",
+            "SchemeName": "IBAN",
+            "Name": "Brown-Bailey",
+            "Currency": "PHP"
+        },
+        "DebtorAgent": {
+            "Identification": "3373322"
+        },
+        "DebtorAccount": {
+            "Identification": "GB74PHZY39685893063484",
+            "SchemeName": "IBAN",
+            "Name": "Morris, Brown and Ayers",
+            "Currency": "XAF"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "9048a64602c04353872be2f345f532fa",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9f1125de25764dd3be055ea23c073261",
+            "MandateId": "1d7d729f251c42279d736b6b776c1f1b",
+            "ChequeNumber": "9329",
+            "TransactionReference": "20210429-072310"
+        },
+        "RelatedParties": {
+            "CreditorId": "9307202",
+            "UltimateCreditor": "Sandoval and Sons",
+            "UltimateDebtor": "Harris PLC"
+        }
+    },
+    {
+        "TransactionId": "6835459",
+        "Amount": 815.31,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-06-28T08:58:52",
+        "ValueDateTime": "2027-04-27T21:59:34",
+        "RemittanceInformationUnstructured": "if",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2379687"
+        },
+        "CreditorAccount": {
+            "Identification": "GB54WWES31692286355358",
+            "SchemeName": "IBAN",
+            "Name": "Robinson, Nelson and Stone",
+            "Currency": "PEN"
+        },
+        "DebtorAgent": {
+            "Identification": "2140424"
+        },
+        "DebtorAccount": {
+            "Identification": "GB43APRA50474086751684",
+            "SchemeName": "IBAN",
+            "Name": "Williams Inc",
+            "Currency": "CHF"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "06cf344401d24b148e5f5bec251ae98c",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "e0123bcb57a14be8b193e1989431fa38",
+            "MandateId": "65ea64b518d140b3a4d126e07fac86d0",
+            "ChequeNumber": "5159",
+            "TransactionReference": "20211017-134005"
+        },
+        "RelatedParties": {
+            "CreditorId": "6771035",
+            "UltimateCreditor": "Alexander Group",
+            "UltimateDebtor": "Wright Group"
+        }
+    },
+    {
+        "TransactionId": "7614518",
+        "Amount": 583.78,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-03T01:54:04",
+        "ValueDateTime": "2023-11-01T20:21:36",
+        "RemittanceInformationUnstructured": "throw",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6106394"
+        },
+        "CreditorAccount": {
+            "Identification": "GB33BDTT34777941237730",
+            "SchemeName": "IBAN",
+            "Name": "Ward, Alvarez and Anderson",
+            "Currency": "CLP"
+        },
+        "DebtorAgent": {
+            "Identification": "1303364"
+        },
+        "DebtorAccount": {
+            "Identification": "GB29UONV25716371445870",
+            "SchemeName": "IBAN",
+            "Name": "Williams PLC",
+            "Currency": "NAD"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0e0ac68ebb5a495ba51890997cd7ebc6",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a4349a266faf44d2b5ae3be08231f897",
+            "MandateId": "a5432de5f86d46a697465c0e16312a62",
+            "ChequeNumber": "2718",
+            "TransactionReference": "20221221-034205"
+        },
+        "RelatedParties": {
+            "CreditorId": "4829813",
+            "UltimateCreditor": "Crawford, Clark and Mason",
+            "UltimateDebtor": "Marks-Lawson"
+        }
+    },
+    {
+        "TransactionId": "2210791",
+        "Amount": 969.37,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-08-12T15:44:26",
+        "ValueDateTime": "2023-11-01T08:25:39",
+        "RemittanceInformationUnstructured": "light",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3117911"
+        },
+        "CreditorAccount": {
+            "Identification": "GB35KFWB95902477367500",
+            "SchemeName": "IBAN",
+            "Name": "Norton-Brewer",
+            "Currency": "ARS"
+        },
+        "DebtorAgent": {
+            "Identification": "6068969"
+        },
+        "DebtorAccount": {
+            "Identification": "GB86KKOT28983179005721",
+            "SchemeName": "IBAN",
+            "Name": "Montgomery LLC",
+            "Currency": "EGP"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "8e804a35e4fe404ca9b00456af90f4f1",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9b263e1bbfc74de6879c4e5ab2291bf3",
+            "MandateId": "6351b914914249d4ab369ca21d4915da",
+            "ChequeNumber": "9360",
+            "TransactionReference": "20221204-003330"
+        },
+        "RelatedParties": {
+            "CreditorId": "3339076",
+            "UltimateCreditor": "Graham-Martin",
+            "UltimateDebtor": "Mccormick PLC"
+        }
+    },
+    {
+        "TransactionId": "1058971",
+        "Amount": 886.75,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-05-21T02:45:34",
+        "ValueDateTime": "2025-02-23T02:11:43",
+        "RemittanceInformationUnstructured": "paper",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7328439"
+        },
+        "CreditorAccount": {
+            "Identification": "GB30TOXH73805695331090",
+            "SchemeName": "IBAN",
+            "Name": "Blair PLC",
+            "Currency": "ETB"
+        },
+        "DebtorAgent": {
+            "Identification": "5454326"
+        },
+        "DebtorAccount": {
+            "Identification": "GB15XVDU85884978549086",
+            "SchemeName": "IBAN",
+            "Name": "Cole, Castaneda and Pearson",
+            "Currency": "SCR"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "dd4c070d48714aa3826ced0d8bde0e9f",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "c023ca3afb8c4eb1be10ea9e8eb28b7b",
+            "MandateId": "562b2eb9cf304f7cadec785fd61ea004",
+            "ChequeNumber": "5006",
+            "TransactionReference": "20200319-185853"
+        },
+        "RelatedParties": {
+            "CreditorId": "9115277",
+            "UltimateCreditor": "Harrison-Price",
+            "UltimateDebtor": "Williamson-Bruce"
+        }
+    },
+    {
+        "TransactionId": "7663025",
+        "Amount": 68.87,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-05-22T10:49:51",
+        "ValueDateTime": "2023-11-24T02:43:53",
+        "RemittanceInformationUnstructured": "charge",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8030483"
+        },
+        "CreditorAccount": {
+            "Identification": "GB19VBGN14932162653548",
+            "SchemeName": "IBAN",
+            "Name": "Herrera PLC",
+            "Currency": "IRR"
+        },
+        "DebtorAgent": {
+            "Identification": "2488142"
+        },
+        "DebtorAccount": {
+            "Identification": "GB82WZJX11302150303947",
+            "SchemeName": "IBAN",
+            "Name": "Shaffer, Perez and Cox",
+            "Currency": "RSD"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "aa83e44e9bf047a7ae7600e5ad2bb066",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "ee0312dfd99e4f798c4dd8605542d4e2",
+            "MandateId": "e18ea29cce9c4e069c36d9cc5d6cdf78",
+            "ChequeNumber": "1262",
+            "TransactionReference": "20200804-230112"
+        },
+        "RelatedParties": {
+            "CreditorId": "7666531",
+            "UltimateCreditor": "Simon, Mccarthy and Esparza",
+            "UltimateDebtor": "Garcia-Edwards"
+        }
+    },
+    {
+        "TransactionId": "4042969",
+        "Amount": 81.29,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-07-24T08:39:27",
+        "ValueDateTime": "2026-09-23T08:56:37",
+        "RemittanceInformationUnstructured": "oil",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1182728"
+        },
+        "CreditorAccount": {
+            "Identification": "GB16GQLQ15355570899580",
+            "SchemeName": "IBAN",
+            "Name": "Branch Ltd",
+            "Currency": "CZK"
+        },
+        "DebtorAgent": {
+            "Identification": "6489450"
+        },
+        "DebtorAccount": {
+            "Identification": "GB54CGDS63711717472364",
+            "SchemeName": "IBAN",
+            "Name": "Atkins-Matthews",
+            "Currency": "SAR"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "609dfbf40ca641acb2a00f0a00027c57",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a8ca592a9ca34b6085794135dd432141",
+            "MandateId": "85537e496d3e47b9a7c20fbe4d624ebc",
+            "ChequeNumber": "3452",
+            "TransactionReference": "20220117-014733"
+        },
+        "RelatedParties": {
+            "CreditorId": "8763868",
+            "UltimateCreditor": "Quinn, Newman and Miller",
+            "UltimateDebtor": "Bates, Munoz and Strong"
+        }
+    },
+    {
+        "TransactionId": "3248614",
+        "Amount": 317.7,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-05-22T23:41:06",
+        "ValueDateTime": "2028-10-27T03:09:47",
+        "RemittanceInformationUnstructured": "administration",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5767148"
+        },
+        "CreditorAccount": {
+            "Identification": "GB96AJRV23398647129099",
+            "SchemeName": "IBAN",
+            "Name": "Fernandez-Perry",
+            "Currency": "SEK"
+        },
+        "DebtorAgent": {
+            "Identification": "1683220"
+        },
+        "DebtorAccount": {
+            "Identification": "GB09WRHP21934543256462",
+            "SchemeName": "IBAN",
+            "Name": "Flores PLC",
+            "Currency": "DKK"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "0bd21209cc534a5eb02bfcef1a456b89",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f0698ae024e643ababb7fcf97d050558",
+            "MandateId": "ca2df872888b421398e822de0839ab5c",
+            "ChequeNumber": "2047",
+            "TransactionReference": "20210902-012913"
+        },
+        "RelatedParties": {
+            "CreditorId": "7226859",
+            "UltimateCreditor": "Harper Group",
+            "UltimateDebtor": "Boyd-Stewart"
+        }
+    },
+    {
+        "TransactionId": "4792080",
+        "Amount": 213.49,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-09-09T23:00:51",
+        "ValueDateTime": "2029-10-11T17:14:27",
+        "RemittanceInformationUnstructured": "all",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6338904"
+        },
+        "CreditorAccount": {
+            "Identification": "GB39WFNI29500377445480",
+            "SchemeName": "IBAN",
+            "Name": "Cooper, Ryan and Wood",
+            "Currency": "HKD"
+        },
+        "DebtorAgent": {
+            "Identification": "4305784"
+        },
+        "DebtorAccount": {
+            "Identification": "GB41GUCP47003192574639",
+            "SchemeName": "IBAN",
+            "Name": "Cole Ltd",
+            "Currency": "DJF"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "fcd18731e4544a8ca3f4d336a939a11e",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "b1a4037100b84def8af681bf1c54423d",
+            "MandateId": "3d4c9d6cb15146e6bded6d20e0c8ba42",
+            "ChequeNumber": "1557",
+            "TransactionReference": "20211205-160331"
+        },
+        "RelatedParties": {
+            "CreditorId": "4616690",
+            "UltimateCreditor": "Hunter Group",
+            "UltimateDebtor": "Leon, Rich and Mercer"
+        }
+    },
+    {
+        "TransactionId": "6131097",
+        "Amount": 23.31,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T22:44:40",
+        "ValueDateTime": "2026-01-19T19:12:53",
+        "RemittanceInformationUnstructured": "already",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8156732"
+        },
+        "CreditorAccount": {
+            "Identification": "GB31FRVF51488775219943",
+            "SchemeName": "IBAN",
+            "Name": "Harmon Group",
+            "Currency": "RSD"
+        },
+        "DebtorAgent": {
+            "Identification": "3315325"
+        },
+        "DebtorAccount": {
+            "Identification": "GB10TKHA73783805004833",
+            "SchemeName": "IBAN",
+            "Name": "Thomas-Bailey",
+            "Currency": "TTD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "c3098fa1b3f946f1a88b0de8452ca8a2",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "6fae2179bae6442686f2834cd536cfe9",
+            "MandateId": "7c6d4c27c60f40e99f6666419eb6d564",
+            "ChequeNumber": "4058",
+            "TransactionReference": "20211018-054236"
+        },
+        "RelatedParties": {
+            "CreditorId": "9360933",
+            "UltimateCreditor": "Thomas Ltd",
+            "UltimateDebtor": "Evans-Montoya"
+        }
+    },
+    {
+        "TransactionId": "2724283",
+        "Amount": 392.15,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-01-29T19:33:13",
+        "ValueDateTime": "2029-01-13T02:23:29",
+        "RemittanceInformationUnstructured": "natural",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6836015"
+        },
+        "CreditorAccount": {
+            "Identification": "GB18ATEK98336200380049",
+            "SchemeName": "IBAN",
+            "Name": "Reid-Shaw",
+            "Currency": "BOB"
+        },
+        "DebtorAgent": {
+            "Identification": "2516247"
+        },
+        "DebtorAccount": {
+            "Identification": "GB46LIMR05925332812128",
+            "SchemeName": "IBAN",
+            "Name": "Cohen, Scott and Baldwin",
+            "Currency": "LYD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "80984b8967ef485abf56dbdef34158c6",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a37c9e1b2c504341907850c46c5d274c",
+            "MandateId": "361c6f47ed684170b1f7735883f86b19",
+            "ChequeNumber": "9279",
+            "TransactionReference": "20221120-031640"
+        },
+        "RelatedParties": {
+            "CreditorId": "7923077",
+            "UltimateCreditor": "Reyes, Parsons and Sutton",
+            "UltimateDebtor": "Terry-Rios"
+        }
+    },
+    {
+        "TransactionId": "3203233",
+        "Amount": 38.2,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-04-30T14:58:56",
+        "ValueDateTime": "2028-04-12T09:11:14",
+        "RemittanceInformationUnstructured": "prepare",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2716092"
+        },
+        "CreditorAccount": {
+            "Identification": "GB71PIOF27521587532178",
+            "SchemeName": "IBAN",
+            "Name": "Martin-Dixon",
+            "Currency": "PYG"
+        },
+        "DebtorAgent": {
+            "Identification": "9913677"
+        },
+        "DebtorAccount": {
+            "Identification": "GB54GTMP67685917265107",
+            "SchemeName": "IBAN",
+            "Name": "Weber PLC",
+            "Currency": "TWD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "b2b01915bf374e33ada12ff0eaa57583",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1c005ae9647545679705c3296f2e1cb5",
+            "MandateId": "cb5d9bb07a2d4f2baf9ab2bbffbde58e",
+            "ChequeNumber": "1934",
+            "TransactionReference": "20220928-151428"
+        },
+        "RelatedParties": {
+            "CreditorId": "2605752",
+            "UltimateCreditor": "Brown-Reyes",
+            "UltimateDebtor": "Warren-Medina"
+        }
+    },
+    {
+        "TransactionId": "5000952",
+        "Amount": 227.72,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-09-16T03:55:25",
+        "ValueDateTime": "2024-02-04T09:06:04",
+        "RemittanceInformationUnstructured": "debate",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1629553"
+        },
+        "CreditorAccount": {
+            "Identification": "GB18DBZV72435988603070",
+            "SchemeName": "IBAN",
+            "Name": "Larson-Sanchez",
+            "Currency": "BWP"
+        },
+        "DebtorAgent": {
+            "Identification": "9231776"
+        },
+        "DebtorAccount": {
+            "Identification": "GB27DOPS62279637555343",
+            "SchemeName": "IBAN",
+            "Name": "Whitaker Ltd",
+            "Currency": "LAK"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "82c4a0304e9f4763a83ce8d2dedce666",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2b9bf1b9a3f14eab81632287eb419945",
+            "MandateId": "5f088d7467434a2ca728b1c8df712a14",
+            "ChequeNumber": "4832",
+            "TransactionReference": "20230215-194531"
+        },
+        "RelatedParties": {
+            "CreditorId": "1959223",
+            "UltimateCreditor": "Davis LLC",
+            "UltimateDebtor": "Mason-Kent"
+        }
+    },
+    {
+        "TransactionId": "4941795",
+        "Amount": 671.38,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-05-05T03:48:19",
+        "ValueDateTime": "2024-06-18T02:52:48",
+        "RemittanceInformationUnstructured": "together",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9247034"
+        },
+        "CreditorAccount": {
+            "Identification": "GB51JRMM21114692254365",
+            "SchemeName": "IBAN",
+            "Name": "Nunez Group",
+            "Currency": "ERN"
+        },
+        "DebtorAgent": {
+            "Identification": "6806587"
+        },
+        "DebtorAccount": {
+            "Identification": "GB19QWWV45885608454722",
+            "SchemeName": "IBAN",
+            "Name": "Castillo LLC",
+            "Currency": "KYD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "f081021c6f714e5882ffe7203d6ac8df",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9d49f729ae064c119f6735393a4af785",
+            "MandateId": "f7b0c713975d423b9b7e8d907d2c10db",
+            "ChequeNumber": "1504",
+            "TransactionReference": "20200227-101015"
+        },
+        "RelatedParties": {
+            "CreditorId": "7082069",
+            "UltimateCreditor": "Richards-Fernandez",
+            "UltimateDebtor": "Riddle-Perez"
+        }
+    },
+    {
+        "TransactionId": "5923272",
+        "Amount": 931.92,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-01-18T09:17:12",
+        "ValueDateTime": "2027-05-27T19:20:07",
+        "RemittanceInformationUnstructured": "front",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8843926"
+        },
+        "CreditorAccount": {
+            "Identification": "GB50LNKP16459374916017",
+            "SchemeName": "IBAN",
+            "Name": "Schmidt-Jimenez",
+            "Currency": "MAD"
+        },
+        "DebtorAgent": {
+            "Identification": "8684593"
+        },
+        "DebtorAccount": {
+            "Identification": "GB65DFRA42643976747512",
+            "SchemeName": "IBAN",
+            "Name": "Mcbride-Barnes",
+            "Currency": "UYU"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "392f15693d3a4b1da7357c81d8e9b7bc",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "392f2e747ff04a808ba6991c3ae3854f",
+            "MandateId": "35314dea4c0b4db7948af536fe6bf6b6",
+            "ChequeNumber": "5878",
+            "TransactionReference": "20200107-050951"
+        },
+        "RelatedParties": {
+            "CreditorId": "9281372",
+            "UltimateCreditor": "Lewis, Weeks and Brown",
+            "UltimateDebtor": "Prince, Kelley and Williams"
+        }
+    },
+    {
+        "TransactionId": "5699410",
+        "Amount": 398.0,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-21T21:50:16",
+        "ValueDateTime": "2024-11-13T22:23:49",
+        "RemittanceInformationUnstructured": "land",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8938399"
+        },
+        "CreditorAccount": {
+            "Identification": "GB42BVQX99054213887931",
+            "SchemeName": "IBAN",
+            "Name": "Mitchell, Dawson and Cook",
+            "Currency": "TJS"
+        },
+        "DebtorAgent": {
+            "Identification": "4353974"
+        },
+        "DebtorAccount": {
+            "Identification": "GB04WHFA52925056795812",
+            "SchemeName": "IBAN",
+            "Name": "Johnson and Sons",
+            "Currency": "ARS"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "3cc84478d56e4c258e5ab6ebcd3e1ca5",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "fc248a5f26624a44a7699f1f8c07145c",
+            "MandateId": "de24d1c19bef4f1286c6a8fff2c46826",
+            "ChequeNumber": "1235",
+            "TransactionReference": "20230424-231408"
+        },
+        "RelatedParties": {
+            "CreditorId": "1980409",
+            "UltimateCreditor": "Rodriguez, Cross and Schroeder",
+            "UltimateDebtor": "Larson, Sanchez and Bates"
+        }
+    },
+    {
+        "TransactionId": "5275654",
+        "Amount": 560.19,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-01-19T17:55:28",
+        "ValueDateTime": "2027-02-16T09:01:49",
+        "RemittanceInformationUnstructured": "week",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3763215"
+        },
+        "CreditorAccount": {
+            "Identification": "GB30JTIC55801495113772",
+            "SchemeName": "IBAN",
+            "Name": "Zhang PLC",
+            "Currency": "NZD"
+        },
+        "DebtorAgent": {
+            "Identification": "4443454"
+        },
+        "DebtorAccount": {
+            "Identification": "GB38YKEK14461535604383",
+            "SchemeName": "IBAN",
+            "Name": "Martinez, Bryant and Matthews",
+            "Currency": "HNL"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "82f1de91a6954af19699ecb90d424b39",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "b091b696594c463593d0fc7ae0858aa6",
+            "MandateId": "97acc839f3564e46a8ca9450cd926300",
+            "ChequeNumber": "6031",
+            "TransactionReference": "20210312-194940"
+        },
+        "RelatedParties": {
+            "CreditorId": "1138709",
+            "UltimateCreditor": "Gomez, Hale and Choi",
+            "UltimateDebtor": "Williams, Adams and Dominguez"
+        }
+    },
+    {
+        "TransactionId": "2599469",
+        "Amount": 529.98,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-04-26T01:49:33",
+        "ValueDateTime": "2027-04-28T03:54:27",
+        "RemittanceInformationUnstructured": "surface",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9919395"
+        },
+        "CreditorAccount": {
+            "Identification": "GB14TVAC06759275956696",
+            "SchemeName": "IBAN",
+            "Name": "Keith-Harper",
+            "Currency": "AUD"
+        },
+        "DebtorAgent": {
+            "Identification": "2756918"
+        },
+        "DebtorAccount": {
+            "Identification": "GB08UMKD04907539176462",
+            "SchemeName": "IBAN",
+            "Name": "Fitzpatrick, Ballard and Wells",
+            "Currency": "CAD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "f4cfdf78989242f1901a44f8409f4297",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "3985aff87f294efcb7f20e1c29b44d6f",
+            "MandateId": "0551827b4e57407f94fc9fba9a9b607c",
+            "ChequeNumber": "5933",
+            "TransactionReference": "20220212-100200"
+        },
+        "RelatedParties": {
+            "CreditorId": "7796110",
+            "UltimateCreditor": "Smith-Taylor",
+            "UltimateDebtor": "Nichols-Dawson"
+        }
+    },
+    {
+        "TransactionId": "3982992",
+        "Amount": 894.0,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-11-05T12:51:17",
+        "ValueDateTime": "2026-03-30T15:44:24",
+        "RemittanceInformationUnstructured": "kid",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3046571"
+        },
+        "CreditorAccount": {
+            "Identification": "GB05BQZF34259065515488",
+            "SchemeName": "IBAN",
+            "Name": "Lewis, Downs and Woods",
+            "Currency": "LSL"
+        },
+        "DebtorAgent": {
+            "Identification": "4844116"
+        },
+        "DebtorAccount": {
+            "Identification": "GB30SBLU15225279335963",
+            "SchemeName": "IBAN",
+            "Name": "Molina, Johns and Clark",
+            "Currency": "AWG"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "d7940dc7f9aa490caeb85b0a54704160",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "15ba6a515b1745fc81346865f117ff7f",
+            "MandateId": "fa87b886b20b42bab6903847dbfa26ae",
+            "ChequeNumber": "7776",
+            "TransactionReference": "20210510-131454"
+        },
+        "RelatedParties": {
+            "CreditorId": "3937230",
+            "UltimateCreditor": "Yates, Hayes and Terry",
+            "UltimateDebtor": "Turner, Leonard and Lin"
+        }
+    },
+    {
+        "TransactionId": "3779559",
+        "Amount": 941.16,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-10-30T09:39:32",
+        "ValueDateTime": "2029-05-10T04:48:55",
+        "RemittanceInformationUnstructured": "card",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8799520"
+        },
+        "CreditorAccount": {
+            "Identification": "GB19AZQV59248149774235",
+            "SchemeName": "IBAN",
+            "Name": "Hardin, Jimenez and Mcdaniel",
+            "Currency": "GBP"
+        },
+        "DebtorAgent": {
+            "Identification": "7423651"
+        },
+        "DebtorAccount": {
+            "Identification": "GB75FLVU72126576867185",
+            "SchemeName": "IBAN",
+            "Name": "Jackson, Johnson and Fuentes",
+            "Currency": "NAD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "1bdf559936ea497f8744aa0a54ca345e",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "c6959dbafcc543bcb33353790844966d",
+            "MandateId": "436e063e9c454b5e9c95043ad7d167ab",
+            "ChequeNumber": "2724",
+            "TransactionReference": "20200428-215415"
+        },
+        "RelatedParties": {
+            "CreditorId": "6179952",
+            "UltimateCreditor": "Walsh, Tran and Lester",
+            "UltimateDebtor": "Cook-Bennett"
+        }
+    },
+    {
+        "TransactionId": "3896721",
+        "Amount": 986.96,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-11-03T21:28:41",
+        "ValueDateTime": "2028-10-29T07:31:08",
+        "RemittanceInformationUnstructured": "notice",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1964770"
+        },
+        "CreditorAccount": {
+            "Identification": "GB22HRHA15813551019234",
+            "SchemeName": "IBAN",
+            "Name": "Costa-Taylor",
+            "Currency": "JEP"
+        },
+        "DebtorAgent": {
+            "Identification": "9907024"
+        },
+        "DebtorAccount": {
+            "Identification": "GB36WJXE40959255511642",
+            "SchemeName": "IBAN",
+            "Name": "Wright-Warren",
+            "Currency": "ARS"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "f4ace9ada52b408998ee17cf729ac912",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "8d966888d37649e1b001d3f11bf4bb33",
+            "MandateId": "95100d567d604fb6956e9edb4d6b6b1b",
+            "ChequeNumber": "9775",
+            "TransactionReference": "20230319-121122"
+        },
+        "RelatedParties": {
+            "CreditorId": "2025270",
+            "UltimateCreditor": "Bryant, Greene and Thompson",
+            "UltimateDebtor": "Summers-Smith"
+        }
+    },
+    {
+        "TransactionId": "3254473",
+        "Amount": 49.65,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-29T21:15:23",
+        "ValueDateTime": "2025-10-24T08:16:03",
+        "RemittanceInformationUnstructured": "yeah",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6622339"
+        },
+        "CreditorAccount": {
+            "Identification": "GB58KHGY16241245509755",
+            "SchemeName": "IBAN",
+            "Name": "Gallegos LLC",
+            "Currency": "FJD"
+        },
+        "DebtorAgent": {
+            "Identification": "2628181"
+        },
+        "DebtorAccount": {
+            "Identification": "GB05WEHV06830676438197",
+            "SchemeName": "IBAN",
+            "Name": "Reyes, Elliott and Smith",
+            "Currency": "COP"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "4cd25a8a97ac46909d2f73f3e8cbf077",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "a49dfe1d7e96493ba38fee44d8a617cb",
+            "MandateId": "5115dc75cc8449f49bdb1b339206a2c8",
+            "ChequeNumber": "7298",
+            "TransactionReference": "20210506-013706"
+        },
+        "RelatedParties": {
+            "CreditorId": "9636273",
+            "UltimateCreditor": "Flowers, Lang and Edwards",
+            "UltimateDebtor": "Jones-Shepard"
+        }
+    },
+    {
+        "TransactionId": "9065043",
+        "Amount": 536.32,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-08-19T13:50:02",
+        "ValueDateTime": "2024-03-19T03:46:22",
+        "RemittanceInformationUnstructured": "successful",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4914041"
+        },
+        "CreditorAccount": {
+            "Identification": "GB97AOXC72251595925422",
+            "SchemeName": "IBAN",
+            "Name": "Sanchez-Vincent",
+            "Currency": "ISK"
+        },
+        "DebtorAgent": {
+            "Identification": "4030332"
+        },
+        "DebtorAccount": {
+            "Identification": "GB60WHUF39834788108386",
+            "SchemeName": "IBAN",
+            "Name": "Erickson, Mcgee and Patton",
+            "Currency": "VUV"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "1f9a6f5436cf44348e3cab10ebba623e",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "5ec89d05e71047beadb9f50681bc9364",
+            "MandateId": "555fa42b32eb491d97c61f43678aff27",
+            "ChequeNumber": "9707",
+            "TransactionReference": "20210505-122014"
+        },
+        "RelatedParties": {
+            "CreditorId": "5862899",
+            "UltimateCreditor": "Davis, Wright and Roberts",
+            "UltimateDebtor": "Singh-Stewart"
+        }
+    },
+    {
+        "TransactionId": "7620921",
+        "Amount": 95.77,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-12-30T11:23:47",
+        "ValueDateTime": "2029-08-19T10:12:17",
+        "RemittanceInformationUnstructured": "brother",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8215360"
+        },
+        "CreditorAccount": {
+            "Identification": "GB84ZBIE09331333134812",
+            "SchemeName": "IBAN",
+            "Name": "Stephenson-Wilson",
+            "Currency": "YER"
+        },
+        "DebtorAgent": {
+            "Identification": "7688470"
+        },
+        "DebtorAccount": {
+            "Identification": "GB19SAYC54715296331297",
+            "SchemeName": "IBAN",
+            "Name": "Robinson PLC",
+            "Currency": "LSL"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e3cc94c714f24be9b23025c51040bbde",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "4677a1efef894388983e4039cbd7ef7d",
+            "MandateId": "8cf6c99399f3406aa6b93a90e90911f3",
+            "ChequeNumber": "7638",
+            "TransactionReference": "20201008-224653"
+        },
+        "RelatedParties": {
+            "CreditorId": "3559964",
+            "UltimateCreditor": "Serrano-Anderson",
+            "UltimateDebtor": "Williams, Anderson and Jones"
+        }
+    },
+    {
+        "TransactionId": "1824016",
+        "Amount": 557.23,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-09-25T20:58:13",
+        "ValueDateTime": "2029-10-06T12:33:02",
+        "RemittanceInformationUnstructured": "recognize",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1811202"
+        },
+        "CreditorAccount": {
+            "Identification": "GB68IMSZ62595416908857",
+            "SchemeName": "IBAN",
+            "Name": "Brown, Thornton and Frazier",
+            "Currency": "ISK"
+        },
+        "DebtorAgent": {
+            "Identification": "5151211"
+        },
+        "DebtorAccount": {
+            "Identification": "GB03PXVA66779032883033",
+            "SchemeName": "IBAN",
+            "Name": "Kennedy, Good and Swanson",
+            "Currency": "CLP"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "f71f11dfedbe488a904c6d4c4262bda9",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2b9c0aaca5d3460fa5431b730fb327ff",
+            "MandateId": "9f3ad74c64b8411b92e931037c30ba71",
+            "ChequeNumber": "2081",
+            "TransactionReference": "20220828-102649"
+        },
+        "RelatedParties": {
+            "CreditorId": "8383838",
+            "UltimateCreditor": "Mueller, Larsen and Newton",
+            "UltimateDebtor": "Hart-Parker"
+        }
+    },
+    {
+        "TransactionId": "2578312",
+        "Amount": 792.8,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-03-24T11:45:31",
+        "ValueDateTime": "2024-10-21T05:39:13",
+        "RemittanceInformationUnstructured": "business",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6544504"
+        },
+        "CreditorAccount": {
+            "Identification": "GB53AXSF84647509941564",
+            "SchemeName": "IBAN",
+            "Name": "Brooks-Huff",
+            "Currency": "LSL"
+        },
+        "DebtorAgent": {
+            "Identification": "8271301"
+        },
+        "DebtorAccount": {
+            "Identification": "GB07SZSA89552237326809",
+            "SchemeName": "IBAN",
+            "Name": "Edwards, Reynolds and Owens",
+            "Currency": "SAR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "dc3009914b3045e7a39c3a144f90f267",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "17c7bf1858d640e6974abf734340ecf0",
+            "MandateId": "4910e983a6ba41dfada48814773d46c3",
+            "ChequeNumber": "7454",
+            "TransactionReference": "20230902-082016"
+        },
+        "RelatedParties": {
+            "CreditorId": "9934078",
+            "UltimateCreditor": "Reed-Beck",
+            "UltimateDebtor": "Austin-Smith"
+        }
+    },
+    {
+        "TransactionId": "6135579",
+        "Amount": 917.0,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-04-23T15:30:32",
+        "ValueDateTime": "2029-02-14T00:29:41",
+        "RemittanceInformationUnstructured": "toward",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4698084"
+        },
+        "CreditorAccount": {
+            "Identification": "GB51KTMU96258281406976",
+            "SchemeName": "IBAN",
+            "Name": "Gardner Ltd",
+            "Currency": "MRO"
+        },
+        "DebtorAgent": {
+            "Identification": "4437489"
+        },
+        "DebtorAccount": {
+            "Identification": "GB20QIYU48355234254345",
+            "SchemeName": "IBAN",
+            "Name": "Flores, Harrington and Bautista",
+            "Currency": "RUB"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0bc2866a0b4a47e29055259c24a8f6a4",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "f2b8d05228384e5e82915a37e427158d",
+            "MandateId": "00cddd1d76484547a4d8a9487490b4da",
+            "ChequeNumber": "1622",
+            "TransactionReference": "20200606-073728"
+        },
+        "RelatedParties": {
+            "CreditorId": "2453653",
+            "UltimateCreditor": "Johnson and Sons",
+            "UltimateDebtor": "Jackson, Banks and Thompson"
+        }
+    },
+    {
+        "TransactionId": "5332897",
+        "Amount": 937.15,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-05-27T10:51:08",
+        "ValueDateTime": "2024-12-24T08:14:09",
+        "RemittanceInformationUnstructured": "different",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7796564"
+        },
+        "CreditorAccount": {
+            "Identification": "GB84EJST68383304079455",
+            "SchemeName": "IBAN",
+            "Name": "Anderson, Diaz and Ellis",
+            "Currency": "ILS"
+        },
+        "DebtorAgent": {
+            "Identification": "3434507"
+        },
+        "DebtorAccount": {
+            "Identification": "GB22OFEC67394167100764",
+            "SchemeName": "IBAN",
+            "Name": "Flores-Lindsey",
+            "Currency": "SVC"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "adadce0c03614c73a06e318df98d6853",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "79a362f0142541ee974a7a46fd548e07",
+            "MandateId": "e82d5b9d44824a30ab32af00e7fe504b",
+            "ChequeNumber": "9319",
+            "TransactionReference": "20210901-201752"
+        },
+        "RelatedParties": {
+            "CreditorId": "4572366",
+            "UltimateCreditor": "James PLC",
+            "UltimateDebtor": "Yoder, Melton and Berry"
+        }
+    },
+    {
+        "TransactionId": "7287607",
+        "Amount": 569.63,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-07-31T00:11:46",
+        "ValueDateTime": "2029-04-21T12:24:02",
+        "RemittanceInformationUnstructured": "contain",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1131111"
+        },
+        "CreditorAccount": {
+            "Identification": "GB81ZTOP19449883587568",
+            "SchemeName": "IBAN",
+            "Name": "Carr, Stephens and Baker",
+            "Currency": "GIP"
+        },
+        "DebtorAgent": {
+            "Identification": "6303744"
+        },
+        "DebtorAccount": {
+            "Identification": "GB25IMWM47445068561956",
+            "SchemeName": "IBAN",
+            "Name": "Gonzalez-Smith",
+            "Currency": "TND"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "ce761131fb16439783c307efd08ddf31",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "df9e5b850c1a45808a59c91c472a2f18",
+            "MandateId": "5468ab80bd7f4fa380c88b970350b27c",
+            "ChequeNumber": "3199",
+            "TransactionReference": "20200318-055836"
+        },
+        "RelatedParties": {
+            "CreditorId": "7453899",
+            "UltimateCreditor": "Stevens-Rodriguez",
+            "UltimateDebtor": "Sanchez LLC"
+        }
+    },
+    {
+        "TransactionId": "3558915",
+        "Amount": 523.38,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-02-14T12:06:41",
+        "ValueDateTime": "2025-07-27T17:19:10",
+        "RemittanceInformationUnstructured": "view",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7546794"
+        },
+        "CreditorAccount": {
+            "Identification": "GB21ZRKC96589596973604",
+            "SchemeName": "IBAN",
+            "Name": "Bradley-Thompson",
+            "Currency": "SOS"
+        },
+        "DebtorAgent": {
+            "Identification": "7081010"
+        },
+        "DebtorAccount": {
+            "Identification": "GB66UTRY47769636864490",
+            "SchemeName": "IBAN",
+            "Name": "Le-Harris",
+            "Currency": "GIP"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "adb047219cb9413c8d6a62c0cc642caf",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2d3190b50d684d4c8a08225581a7f97a",
+            "MandateId": "72922ed1d7cc4753b9744b1328cdfc2d",
+            "ChequeNumber": "9127",
+            "TransactionReference": "20211005-151222"
+        },
+        "RelatedParties": {
+            "CreditorId": "9194513",
+            "UltimateCreditor": "Lyons LLC",
+            "UltimateDebtor": "Jones Ltd"
+        }
+    },
+    {
+        "TransactionId": "3049015",
+        "Amount": 598.63,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-07-15T23:21:42",
+        "ValueDateTime": "2028-07-31T02:00:37",
+        "RemittanceInformationUnstructured": "once",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2781335"
+        },
+        "CreditorAccount": {
+            "Identification": "GB02KHJF16158387371668",
+            "SchemeName": "IBAN",
+            "Name": "Fisher, Shaw and Salazar",
+            "Currency": "DJF"
+        },
+        "DebtorAgent": {
+            "Identification": "4480647"
+        },
+        "DebtorAccount": {
+            "Identification": "GB46LKME52545217206193",
+            "SchemeName": "IBAN",
+            "Name": "Charles-Walker",
+            "Currency": "BMD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "e9b6713406234aff8dddcdc195a12ac3",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "ef68e1e31cfd4e2fa15f00771b20024d",
+            "MandateId": "78b3030840244d42bd5307bc2e63ca2b",
+            "ChequeNumber": "8308",
+            "TransactionReference": "20220202-184341"
+        },
+        "RelatedParties": {
+            "CreditorId": "8803647",
+            "UltimateCreditor": "Phillips PLC",
+            "UltimateDebtor": "Larsen-Barnes"
+        }
+    },
+    {
+        "TransactionId": "3223541",
+        "Amount": 43.51,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-12-12T00:18:17",
+        "ValueDateTime": "2028-03-10T22:41:55",
+        "RemittanceInformationUnstructured": "after",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8754622"
+        },
+        "CreditorAccount": {
+            "Identification": "GB77TBGF47346970363867",
+            "SchemeName": "IBAN",
+            "Name": "Johnson and Sons",
+            "Currency": "AFN"
+        },
+        "DebtorAgent": {
+            "Identification": "6975500"
+        },
+        "DebtorAccount": {
+            "Identification": "GB72CTRA34214631398034",
+            "SchemeName": "IBAN",
+            "Name": "Murray PLC",
+            "Currency": "AZN"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "6caf048827404938a31e7646233bb4bc",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "decd8585bc8541638168c5e032f2c140",
+            "MandateId": "280b97e0fadc4adf88cb6a0565c18cf2",
+            "ChequeNumber": "6131",
+            "TransactionReference": "20210706-170531"
+        },
+        "RelatedParties": {
+            "CreditorId": "2011416",
+            "UltimateCreditor": "Miller, Torres and Williams",
+            "UltimateDebtor": "Lewis Group"
+        }
+    },
+    {
+        "TransactionId": "6098800",
+        "Amount": 372.39,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-11-13T01:38:22",
+        "ValueDateTime": "2026-10-20T14:36:30",
+        "RemittanceInformationUnstructured": "education",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1740091"
+        },
+        "CreditorAccount": {
+            "Identification": "GB25CSHB92415182642000",
+            "SchemeName": "IBAN",
+            "Name": "Rhodes-Rodriguez",
+            "Currency": "LYD"
+        },
+        "DebtorAgent": {
+            "Identification": "9021634"
+        },
+        "DebtorAccount": {
+            "Identification": "GB59XUEK06483826542021",
+            "SchemeName": "IBAN",
+            "Name": "Rosario, Lopez and Wade",
+            "Currency": "AED"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ee58747b4f4343a5a470fa95c24b0b5f",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "4e2ee6fd3336467787eddc8c29b70958",
+            "MandateId": "1753c857b3bb490bb3cd6897bb21a0a1",
+            "ChequeNumber": "2880",
+            "TransactionReference": "20210901-074708"
+        },
+        "RelatedParties": {
+            "CreditorId": "3947318",
+            "UltimateCreditor": "Mason Inc",
+            "UltimateDebtor": "Thompson LLC"
+        }
+    },
+    {
+        "TransactionId": "3893226",
+        "Amount": 370.11,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-07-27T21:16:12",
+        "ValueDateTime": "2024-12-04T18:21:20",
+        "RemittanceInformationUnstructured": "far",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7143137"
+        },
+        "CreditorAccount": {
+            "Identification": "GB42ZFBG33130285293790",
+            "SchemeName": "IBAN",
+            "Name": "Henderson, Reed and Wilson",
+            "Currency": "IDR"
+        },
+        "DebtorAgent": {
+            "Identification": "7657725"
+        },
+        "DebtorAccount": {
+            "Identification": "GB11HENY46507301218655",
+            "SchemeName": "IBAN",
+            "Name": "Goodman, Newman and Hodge",
+            "Currency": "AMD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "37c1d2c2d15a4efba5df8e0522c2d28b",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "7c5f99b7daaa402693c7abf596e8a48d",
+            "MandateId": "12f434fe113d429b91ba8a1b17cebf15",
+            "ChequeNumber": "2792",
+            "TransactionReference": "20230612-044329"
+        },
+        "RelatedParties": {
+            "CreditorId": "2357860",
+            "UltimateCreditor": "Campbell, Braun and Davis",
+            "UltimateDebtor": "Miranda Inc"
+        }
+    },
+    {
+        "TransactionId": "3543103",
+        "Amount": 422.37,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-04-30T21:09:34",
+        "ValueDateTime": "2029-03-16T16:23:59",
+        "RemittanceInformationUnstructured": "civil",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5432686"
+        },
+        "CreditorAccount": {
+            "Identification": "GB73NHMR58868236037465",
+            "SchemeName": "IBAN",
+            "Name": "Nelson Ltd",
+            "Currency": "MKD"
+        },
+        "DebtorAgent": {
+            "Identification": "2825456"
+        },
+        "DebtorAccount": {
+            "Identification": "GB93DJFZ74597383549907",
+            "SchemeName": "IBAN",
+            "Name": "Daniel Ltd",
+            "Currency": "DOP"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "cf3ac56c374a4c5a804447876009d9f1",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "de908f0e8cb34d43a5591d033e9e9f96",
+            "MandateId": "be19a7d42e9f459dbdc71694f67f94f5",
+            "ChequeNumber": "7083",
+            "TransactionReference": "20230514-111909"
+        },
+        "RelatedParties": {
+            "CreditorId": "1237927",
+            "UltimateCreditor": "Espinoza, Griffith and Scott",
+            "UltimateDebtor": "Armstrong, Hunt and Walker"
+        }
+    },
+    {
+        "TransactionId": "5113704",
+        "Amount": 179.59,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-07-27T10:10:19",
+        "ValueDateTime": "2029-08-27T19:43:16",
+        "RemittanceInformationUnstructured": "image",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1774544"
+        },
+        "CreditorAccount": {
+            "Identification": "GB21WFTT58852073158242",
+            "SchemeName": "IBAN",
+            "Name": "Stanley-Bowers",
+            "Currency": "ILS"
+        },
+        "DebtorAgent": {
+            "Identification": "5654886"
+        },
+        "DebtorAccount": {
+            "Identification": "GB71VEVQ84736691089468",
+            "SchemeName": "IBAN",
+            "Name": "Harris and Sons",
+            "Currency": "LAK"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "b164e588a6de42ceb30901a29980fbb4",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "ed49a26241f6442d9e51dd6782931846",
+            "MandateId": "9e16a0a7f3984c0b98ce005851c382e7",
+            "ChequeNumber": "9385",
+            "TransactionReference": "20230801-064706"
+        },
+        "RelatedParties": {
+            "CreditorId": "7291932",
+            "UltimateCreditor": "Pearson Group",
+            "UltimateDebtor": "Becker-White"
+        }
+    },
+    {
+        "TransactionId": "5660762",
+        "Amount": 318.1,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-02-05T02:08:23",
+        "ValueDateTime": "2024-07-21T19:25:15",
+        "RemittanceInformationUnstructured": "with",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4151792"
+        },
+        "CreditorAccount": {
+            "Identification": "GB86QVWG04446748679444",
+            "SchemeName": "IBAN",
+            "Name": "Perry, Lynch and Zavala",
+            "Currency": "BWP"
+        },
+        "DebtorAgent": {
+            "Identification": "5591457"
+        },
+        "DebtorAccount": {
+            "Identification": "GB06OGBV19458460652145",
+            "SchemeName": "IBAN",
+            "Name": "Vargas-Peterson",
+            "Currency": "SLL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "48d530ff1558484db5d7e0d1bef92c4e",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "f3d6400dfc3749f1b4a12e2a2354d225",
+            "MandateId": "5eb796daa8b741b9b1d25bfe4c64cf1b",
+            "ChequeNumber": "8388",
+            "TransactionReference": "20230909-234917"
+        },
+        "RelatedParties": {
+            "CreditorId": "7885086",
+            "UltimateCreditor": "Edwards Ltd",
+            "UltimateDebtor": "Fleming, Powell and Frey"
+        }
+    },
+    {
+        "TransactionId": "9937641",
+        "Amount": 156.28,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-11-05T06:51:16",
+        "ValueDateTime": "2023-10-04T22:32:10",
+        "RemittanceInformationUnstructured": "chance",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5961664"
+        },
+        "CreditorAccount": {
+            "Identification": "GB92TGHP60060769118750",
+            "SchemeName": "IBAN",
+            "Name": "Drake, Munoz and Yoder",
+            "Currency": "SGD"
+        },
+        "DebtorAgent": {
+            "Identification": "5452732"
+        },
+        "DebtorAccount": {
+            "Identification": "GB42VOOU48543969566933",
+            "SchemeName": "IBAN",
+            "Name": "Martin Inc",
+            "Currency": "PGK"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "bef4fcc216734b1997519b0189aed0c7",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "ec6e3e0f787740d2a6fd9cd66b3278c7",
+            "MandateId": "1a2c6aa3cc3a4b7a94b8774923d3dd20",
+            "ChequeNumber": "4713",
+            "TransactionReference": "20220424-023556"
+        },
+        "RelatedParties": {
+            "CreditorId": "8952948",
+            "UltimateCreditor": "Mills and Sons",
+            "UltimateDebtor": "Fritz and Sons"
+        }
+    },
+    {
+        "TransactionId": "1645822",
+        "Amount": 244.52,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-09-26T19:00:42",
+        "ValueDateTime": "2028-11-20T11:42:45",
+        "RemittanceInformationUnstructured": "relate",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9857477"
+        },
+        "CreditorAccount": {
+            "Identification": "GB96VXSS03707301437817",
+            "SchemeName": "IBAN",
+            "Name": "Bernard LLC",
+            "Currency": "SOS"
+        },
+        "DebtorAgent": {
+            "Identification": "2460257"
+        },
+        "DebtorAccount": {
+            "Identification": "GB22KRZA24121111599258",
+            "SchemeName": "IBAN",
+            "Name": "Burns, Barr and Shaffer",
+            "Currency": "HNL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "ee7e06dd2046449dbe66fac1a94e038d",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "05ef018c9d8a46308c63808bbbbad7bc",
+            "MandateId": "e8b705ac60034a2aba68bb4260561dbe",
+            "ChequeNumber": "4114",
+            "TransactionReference": "20230701-111147"
+        },
+        "RelatedParties": {
+            "CreditorId": "8250225",
+            "UltimateCreditor": "Santiago, Chambers and Collins",
+            "UltimateDebtor": "Evans PLC"
+        }
+    },
+    {
+        "TransactionId": "2886473",
+        "Amount": 741.75,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-04-19T10:56:59",
+        "ValueDateTime": "2026-03-08T13:37:46",
+        "RemittanceInformationUnstructured": "world",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4596548"
+        },
+        "CreditorAccount": {
+            "Identification": "GB16IRLA33343530109843",
+            "SchemeName": "IBAN",
+            "Name": "Dunn Inc",
+            "Currency": "TMT"
+        },
+        "DebtorAgent": {
+            "Identification": "4801287"
+        },
+        "DebtorAccount": {
+            "Identification": "GB28AZSJ35108356023109",
+            "SchemeName": "IBAN",
+            "Name": "Walls Inc",
+            "Currency": "SEK"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "3db616e3e38442c2940ca416f5760d90",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "748d365a631a4af9a6ad10302727766d",
+            "MandateId": "d7e9fba46f214fe3a7947e0095c6f8ed",
+            "ChequeNumber": "8400",
+            "TransactionReference": "20210721-051326"
+        },
+        "RelatedParties": {
+            "CreditorId": "2222386",
+            "UltimateCreditor": "Hale-Burnett",
+            "UltimateDebtor": "Briggs, Allen and Washington"
+        }
+    },
+    {
+        "TransactionId": "7607749",
+        "Amount": 122.86,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-09-30T16:06:31",
+        "ValueDateTime": "2024-05-11T14:36:14",
+        "RemittanceInformationUnstructured": "eight",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2978703"
+        },
+        "CreditorAccount": {
+            "Identification": "GB69UVCM73146700568437",
+            "SchemeName": "IBAN",
+            "Name": "Atkinson, Wilkins and Johnson",
+            "Currency": "CUC"
+        },
+        "DebtorAgent": {
+            "Identification": "4736992"
+        },
+        "DebtorAccount": {
+            "Identification": "GB22GGGS25209836949452",
+            "SchemeName": "IBAN",
+            "Name": "Costa-Cruz",
+            "Currency": "DOP"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "d528da66b6d54c6b934a6ae57ba0d2cf",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "17884ea6993b4902a5c6cee5656c844d",
+            "MandateId": "7746673395134fc5ad704c8a8422c263",
+            "ChequeNumber": "9868",
+            "TransactionReference": "20220512-163455"
+        },
+        "RelatedParties": {
+            "CreditorId": "8268234",
+            "UltimateCreditor": "Hayes, Garcia and Patel",
+            "UltimateDebtor": "Sosa-Jordan"
+        }
+    },
+    {
+        "TransactionId": "2989651",
+        "Amount": 155.83,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-08-07T12:53:14",
+        "ValueDateTime": "2024-05-02T11:55:41",
+        "RemittanceInformationUnstructured": "run",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1445391"
+        },
+        "CreditorAccount": {
+            "Identification": "GB46CLVG23490853408361",
+            "SchemeName": "IBAN",
+            "Name": "Jones, Cook and Morgan",
+            "Currency": "MYR"
+        },
+        "DebtorAgent": {
+            "Identification": "3798424"
+        },
+        "DebtorAccount": {
+            "Identification": "GB51UEAU39376911508590",
+            "SchemeName": "IBAN",
+            "Name": "Barber Inc",
+            "Currency": "MZN"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "2a860f67bbb24b57bffc62e611ae35e3",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2d3270933f3e49739c16436c702dd139",
+            "MandateId": "772b0d87711f47aa824bc9615fc4b8d6",
+            "ChequeNumber": "7510",
+            "TransactionReference": "20221127-233350"
+        },
+        "RelatedParties": {
+            "CreditorId": "1761169",
+            "UltimateCreditor": "Jones Inc",
+            "UltimateDebtor": "Rivera-Roy"
+        }
+    },
+    {
+        "TransactionId": "4842930",
+        "Amount": 950.45,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-12-25T03:46:57",
+        "ValueDateTime": "2028-06-23T04:51:01",
+        "RemittanceInformationUnstructured": "financial",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "1551772"
+        },
+        "CreditorAccount": {
+            "Identification": "GB75IGOE37077953490032",
+            "SchemeName": "IBAN",
+            "Name": "Rodriguez Ltd",
+            "Currency": "BOB"
+        },
+        "DebtorAgent": {
+            "Identification": "3662612"
+        },
+        "DebtorAccount": {
+            "Identification": "GB84TVAI14130803934009",
+            "SchemeName": "IBAN",
+            "Name": "Murray-Duran",
+            "Currency": "BHD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "6227248eac924751a2cec05f3e99b263",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9958d5ca880a4843a93bca3145f2a467",
+            "MandateId": "f8812a72c8b6430196f5a9f456790f65",
+            "ChequeNumber": "4080",
+            "TransactionReference": "20200830-071346"
+        },
+        "RelatedParties": {
+            "CreditorId": "3638955",
+            "UltimateCreditor": "Park-Aguirre",
+            "UltimateDebtor": "Martinez, Rodriguez and Wright"
+        }
+    },
+    {
+        "TransactionId": "9073265",
+        "Amount": 61.99,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-06-24T11:19:16",
+        "ValueDateTime": "2027-12-16T15:07:09",
+        "RemittanceInformationUnstructured": "case",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5309971"
+        },
+        "CreditorAccount": {
+            "Identification": "GB89FUAQ75084003399007",
+            "SchemeName": "IBAN",
+            "Name": "Jordan-Goodman",
+            "Currency": "ILS"
+        },
+        "DebtorAgent": {
+            "Identification": "9996852"
+        },
+        "DebtorAccount": {
+            "Identification": "GB34BJKZ80937043256737",
+            "SchemeName": "IBAN",
+            "Name": "Smith-Robinson",
+            "Currency": "KMF"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "62dddc8abe6947fdb0f1b2baf906cbdb",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "5a35dce3ea31420c89eb9f47d05a01da",
+            "MandateId": "311acae368e847eda6f6f0487e66d5e2",
+            "ChequeNumber": "6864",
+            "TransactionReference": "20210419-085038"
+        },
+        "RelatedParties": {
+            "CreditorId": "2944168",
+            "UltimateCreditor": "Oneill, Fuller and Arnold",
+            "UltimateDebtor": "Allen, Santiago and Wilson"
+        }
+    },
+    {
+        "TransactionId": "4374767",
+        "Amount": 790.55,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-01-24T11:43:31",
+        "ValueDateTime": "2028-03-08T15:10:57",
+        "RemittanceInformationUnstructured": "give",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8298038"
+        },
+        "CreditorAccount": {
+            "Identification": "GB24ZUIY72400147878306",
+            "SchemeName": "IBAN",
+            "Name": "Vang, Hall and Hancock",
+            "Currency": "JPY"
+        },
+        "DebtorAgent": {
+            "Identification": "3665209"
+        },
+        "DebtorAccount": {
+            "Identification": "GB07NRET03065656877194",
+            "SchemeName": "IBAN",
+            "Name": "Sutton-Smith",
+            "Currency": "LTL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "9292a6ce344343789ca9892c8777ec43",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a3e3070ba6aa4e8db1d661a0cb912a8f",
+            "MandateId": "a565ec194d2a45aab6875645fb92d98c",
+            "ChequeNumber": "2224",
+            "TransactionReference": "20220119-184349"
+        },
+        "RelatedParties": {
+            "CreditorId": "1418406",
+            "UltimateCreditor": "Smith, Smith and Gonzales",
+            "UltimateDebtor": "Leon-Weber"
+        }
+    },
+    {
+        "TransactionId": "7374576",
+        "Amount": 998.4,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-01-31T13:19:32",
+        "ValueDateTime": "2026-08-08T23:05:11",
+        "RemittanceInformationUnstructured": "less",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8940411"
+        },
+        "CreditorAccount": {
+            "Identification": "GB31AEIM66668353373573",
+            "SchemeName": "IBAN",
+            "Name": "Murray and Sons",
+            "Currency": "SHP"
+        },
+        "DebtorAgent": {
+            "Identification": "2956366"
+        },
+        "DebtorAccount": {
+            "Identification": "GB98IANM99115845634687",
+            "SchemeName": "IBAN",
+            "Name": "James, Moore and Stein",
+            "Currency": "AUD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "c66107fa65c54d2598233b7fd19b96c9",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f4764ca1825c4697b34006a4c2b7eee6",
+            "MandateId": "28184a97a16e427fb9a05e2b2f4beedc",
+            "ChequeNumber": "1451",
+            "TransactionReference": "20211205-232920"
+        },
+        "RelatedParties": {
+            "CreditorId": "4523161",
+            "UltimateCreditor": "Hayes PLC",
+            "UltimateDebtor": "Thomas-Smith"
+        }
+    },
+    {
+        "TransactionId": "8456787",
+        "Amount": 845.88,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-07-02T14:05:24",
+        "ValueDateTime": "2026-08-07T18:23:48",
+        "RemittanceInformationUnstructured": "more",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4504366"
+        },
+        "CreditorAccount": {
+            "Identification": "GB98QERZ09970568484575",
+            "SchemeName": "IBAN",
+            "Name": "Christensen PLC",
+            "Currency": "LKR"
+        },
+        "DebtorAgent": {
+            "Identification": "3742553"
+        },
+        "DebtorAccount": {
+            "Identification": "GB59VHPY44762195529509",
+            "SchemeName": "IBAN",
+            "Name": "Allen-Mcmillan",
+            "Currency": "MMK"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "d7d7212f4dbc49b0a25f9145dba3cdc5",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "1bd3c205a5974e5a913448e26ba4dc85",
+            "MandateId": "63bce8121344413bb585e10c1f4a8568",
+            "ChequeNumber": "4049",
+            "TransactionReference": "20211101-032016"
+        },
+        "RelatedParties": {
+            "CreditorId": "4505106",
+            "UltimateCreditor": "Mccoy, Juarez and Morgan",
+            "UltimateDebtor": "Rivera, Chambers and Castillo"
+        }
+    },
+    {
+        "TransactionId": "3751305",
+        "Amount": 63.88,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-11-01T04:01:43",
+        "ValueDateTime": "2027-04-13T16:01:04",
+        "RemittanceInformationUnstructured": "likely",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2804612"
+        },
+        "CreditorAccount": {
+            "Identification": "GB40ZYSI92149639409741",
+            "SchemeName": "IBAN",
+            "Name": "King-Moore",
+            "Currency": "BIF"
+        },
+        "DebtorAgent": {
+            "Identification": "8586351"
+        },
+        "DebtorAccount": {
+            "Identification": "GB90INPG40660659259948",
+            "SchemeName": "IBAN",
+            "Name": "Rhodes LLC",
+            "Currency": "IQD"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "37580dcb406345e1af6784c9271449f8",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6c25941c0e0a4859bf4b08bd065edeb9",
+            "MandateId": "de2d906e93a44f25a00692a0dca1fa1b",
+            "ChequeNumber": "7984",
+            "TransactionReference": "20210825-111825"
+        },
+        "RelatedParties": {
+            "CreditorId": "8593337",
+            "UltimateCreditor": "Price, Hamilton and Moore",
+            "UltimateDebtor": "Logan-Campbell"
+        }
+    },
+    {
+        "TransactionId": "3670596",
+        "Amount": 282.49,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-07-30T05:11:31",
+        "ValueDateTime": "2026-06-11T22:42:09",
+        "RemittanceInformationUnstructured": "fight",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "5494833"
+        },
+        "CreditorAccount": {
+            "Identification": "GB80TCYR93437134611368",
+            "SchemeName": "IBAN",
+            "Name": "Moore and Sons",
+            "Currency": "PYG"
+        },
+        "DebtorAgent": {
+            "Identification": "3912002"
+        },
+        "DebtorAccount": {
+            "Identification": "GB56XNVY27443955554413",
+            "SchemeName": "IBAN",
+            "Name": "Kim-Wilson",
+            "Currency": "SHP"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "080de80b34ef4d6fb706e8022cbb5aa4",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "d7dd78372ad842ddaa3d2dabf2a9282c",
+            "MandateId": "a754732e150f4cbb80e5457ffa0c80bf",
+            "ChequeNumber": "9245",
+            "TransactionReference": "20220730-181358"
+        },
+        "RelatedParties": {
+            "CreditorId": "3751191",
+            "UltimateCreditor": "Mitchell-Thomas",
+            "UltimateDebtor": "Mullins, Taylor and Thompson"
+        }
+    },
+    {
+        "TransactionId": "6782648",
+        "Amount": 937.7,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-05-30T00:30:28",
+        "ValueDateTime": "2027-07-06T04:56:00",
+        "RemittanceInformationUnstructured": "together",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8042170"
+        },
+        "CreditorAccount": {
+            "Identification": "GB83ZRKP05269487098645",
+            "SchemeName": "IBAN",
+            "Name": "Nelson, Sanchez and Wood",
+            "Currency": "SHP"
+        },
+        "DebtorAgent": {
+            "Identification": "2972589"
+        },
+        "DebtorAccount": {
+            "Identification": "GB06HKPE14539140800865",
+            "SchemeName": "IBAN",
+            "Name": "Wong Ltd",
+            "Currency": "JEP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "05c33ad2eb944659b9841633bf543686",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "111a879cb9c84241a7a0599f9d8d7e97",
+            "MandateId": "5a7e47b9bcdb4af1bc73f44b830d1b63",
+            "ChequeNumber": "9334",
+            "TransactionReference": "20230113-151828"
+        },
+        "RelatedParties": {
+            "CreditorId": "6819966",
+            "UltimateCreditor": "Sullivan, Henry and Ray",
+            "UltimateDebtor": "Noble, Hawkins and Johnson"
+        }
+    },
+    {
+        "TransactionId": "1837847",
+        "Amount": 967.97,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-06-01T10:37:40",
+        "ValueDateTime": "2029-06-02T10:01:10",
+        "RemittanceInformationUnstructured": "director",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3681613"
+        },
+        "CreditorAccount": {
+            "Identification": "GB89VRFS32636172965299",
+            "SchemeName": "IBAN",
+            "Name": "Aguilar-Day",
+            "Currency": "GHS"
+        },
+        "DebtorAgent": {
+            "Identification": "3817670"
+        },
+        "DebtorAccount": {
+            "Identification": "GB64TJSA68082393637742",
+            "SchemeName": "IBAN",
+            "Name": "Wade-Duncan",
+            "Currency": "GIP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "fb5040ba36d649b691a684e14cd3369e",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1a26863d391a4991b81edc862dc3a447",
+            "MandateId": "90c4896606df45049002a1f82774ed8c",
+            "ChequeNumber": "1369",
+            "TransactionReference": "20220824-054127"
+        },
+        "RelatedParties": {
+            "CreditorId": "4186104",
+            "UltimateCreditor": "Nguyen Group",
+            "UltimateDebtor": "Foster-Lawson"
+        }
+    },
+    {
+        "TransactionId": "8990211",
+        "Amount": 798.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-03-19T17:53:28",
+        "ValueDateTime": "2024-02-27T02:38:35",
+        "RemittanceInformationUnstructured": "bank",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9006659"
+        },
+        "CreditorAccount": {
+            "Identification": "GB75EKMN22716931502019",
+            "SchemeName": "IBAN",
+            "Name": "Mcknight, Herrera and Freeman",
+            "Currency": "USD"
+        },
+        "DebtorAgent": {
+            "Identification": "2368865"
+        },
+        "DebtorAccount": {
+            "Identification": "GB81NDKW75929132236949",
+            "SchemeName": "IBAN",
+            "Name": "Johnson Ltd",
+            "Currency": "BWP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "051b1d4ecd904cc5aa21542613a2541b",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "25e01d438ddf4dfa9a715f188b78a8c3",
+            "MandateId": "1371c2cc09454bcb954ba152af3fdc37",
+            "ChequeNumber": "5424",
+            "TransactionReference": "20200830-061445"
+        },
+        "RelatedParties": {
+            "CreditorId": "1325748",
+            "UltimateCreditor": "Bennett, Williams and Alexander",
+            "UltimateDebtor": "Acosta PLC"
+        }
+    },
+    {
+        "TransactionId": "3447820",
+        "Amount": 666.69,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-01-15T17:27:22",
+        "ValueDateTime": "2024-03-12T19:45:07",
+        "RemittanceInformationUnstructured": "figure",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9766253"
+        },
+        "CreditorAccount": {
+            "Identification": "GB68YWYF96628716332025",
+            "SchemeName": "IBAN",
+            "Name": "White-Perkins",
+            "Currency": "PGK"
+        },
+        "DebtorAgent": {
+            "Identification": "3495849"
+        },
+        "DebtorAccount": {
+            "Identification": "GB93RFCU92892638963624",
+            "SchemeName": "IBAN",
+            "Name": "Adkins-Smith",
+            "Currency": "ZMW"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "e34a74d723a64bfebd405b4e5d727452",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5535c46ed1fd48b1bfc02fe022ea83da",
+            "MandateId": "fe5f71fa18d04755b40db2516dbef151",
+            "ChequeNumber": "2779",
+            "TransactionReference": "20220220-175544"
+        },
+        "RelatedParties": {
+            "CreditorId": "3646072",
+            "UltimateCreditor": "Jackson Group",
+            "UltimateDebtor": "Roberts-Jones"
+        }
+    },
+    {
+        "TransactionId": "8443906",
+        "Amount": 624.99,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-03-17T18:03:38",
+        "ValueDateTime": "2024-06-06T02:04:30",
+        "RemittanceInformationUnstructured": "tonight",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7927756"
+        },
+        "CreditorAccount": {
+            "Identification": "GB48IGYS19261234163422",
+            "SchemeName": "IBAN",
+            "Name": "Boyd, Villanueva and Gonzalez",
+            "Currency": "PGK"
+        },
+        "DebtorAgent": {
+            "Identification": "3294189"
+        },
+        "DebtorAccount": {
+            "Identification": "GB72FPVT62231153035461",
+            "SchemeName": "IBAN",
+            "Name": "Williams and Sons",
+            "Currency": "IRR"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "621b72bafe1943bfa3b1bcf4c4b99a62",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "3b3fd2df2d1f414cb42754c764797635",
+            "MandateId": "104a7034c656467297f754ab6b7ddada",
+            "ChequeNumber": "9109",
+            "TransactionReference": "20200924-061928"
+        },
+        "RelatedParties": {
+            "CreditorId": "1009253",
+            "UltimateCreditor": "Holmes-Rodgers",
+            "UltimateDebtor": "Davis and Sons"
+        }
+    },
+    {
+        "TransactionId": "8716357",
+        "Amount": 649.86,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-04-02T19:34:20",
+        "ValueDateTime": "2029-03-08T01:54:09",
+        "RemittanceInformationUnstructured": "interest",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3922149"
+        },
+        "CreditorAccount": {
+            "Identification": "GB60FRKC71320252263345",
+            "SchemeName": "IBAN",
+            "Name": "Riley-Carter",
+            "Currency": "IQD"
+        },
+        "DebtorAgent": {
+            "Identification": "6107068"
+        },
+        "DebtorAccount": {
+            "Identification": "GB59DEKF21580258297969",
+            "SchemeName": "IBAN",
+            "Name": "Collins, Hall and Peterson",
+            "Currency": "SGD"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c76730706ed34867a8a2ed1f51913603",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "4ee11972792f48fba1547d4116ec55ef",
+            "MandateId": "1cb7c0659b624445a0a0f79212dfe143",
+            "ChequeNumber": "4203",
+            "TransactionReference": "20230416-054954"
+        },
+        "RelatedParties": {
+            "CreditorId": "9243896",
+            "UltimateCreditor": "Bowen-Roman",
+            "UltimateDebtor": "Wallace, Strickland and Nicholson"
+        }
+    },
+    {
+        "TransactionId": "6770646",
+        "Amount": 485.22,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-09-20T20:18:45",
+        "ValueDateTime": "2026-02-23T15:41:03",
+        "RemittanceInformationUnstructured": "culture",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3885278"
+        },
+        "CreditorAccount": {
+            "Identification": "GB02UWRJ79162900588050",
+            "SchemeName": "IBAN",
+            "Name": "Taylor, Guerra and Vazquez",
+            "Currency": "IQD"
+        },
+        "DebtorAgent": {
+            "Identification": "3170922"
+        },
+        "DebtorAccount": {
+            "Identification": "GB83KUUD28333067860708",
+            "SchemeName": "IBAN",
+            "Name": "Smith Ltd",
+            "Currency": "MOP"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "fa921395db064da9ab83dcab3781d9db",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "be265dcee1ae4cd09de750f969c95255",
+            "MandateId": "9f006f58f1544c12b12ecc213e63f2e3",
+            "ChequeNumber": "7314",
+            "TransactionReference": "20200505-195217"
+        },
+        "RelatedParties": {
+            "CreditorId": "7826521",
+            "UltimateCreditor": "Garcia Inc",
+            "UltimateDebtor": "Townsend-Kennedy"
+        }
+    },
+    {
+        "TransactionId": "4698678",
+        "Amount": 698.84,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-09-13T12:36:04",
+        "ValueDateTime": "2025-06-06T06:35:10",
+        "RemittanceInformationUnstructured": "against",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3419264"
+        },
+        "CreditorAccount": {
+            "Identification": "GB91MLDI84672853986219",
+            "SchemeName": "IBAN",
+            "Name": "Johnson and Sons",
+            "Currency": "SZL"
+        },
+        "DebtorAgent": {
+            "Identification": "1767193"
+        },
+        "DebtorAccount": {
+            "Identification": "GB38PDFG09712108415058",
+            "SchemeName": "IBAN",
+            "Name": "Olsen, Taylor and Duncan",
+            "Currency": "CDF"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "46f91e416794473888ae561bdc97edf0",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "573452755325462bb111ef7a7ecbf450",
+            "MandateId": "d007ab776d16405db9dfa39f3b8d7654",
+            "ChequeNumber": "8346",
+            "TransactionReference": "20210121-024713"
+        },
+        "RelatedParties": {
+            "CreditorId": "3682886",
+            "UltimateCreditor": "Beck Group",
+            "UltimateDebtor": "Hanson Group"
+        }
+    },
+    {
+        "TransactionId": "6134694",
+        "Amount": 715.5,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-06-08T18:44:35",
+        "ValueDateTime": "2024-09-20T14:33:08",
+        "RemittanceInformationUnstructured": "today",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3144803"
+        },
+        "CreditorAccount": {
+            "Identification": "GB83LQRB16196097827998",
+            "SchemeName": "IBAN",
+            "Name": "Peterson, Fernandez and Mccann",
+            "Currency": "MZN"
+        },
+        "DebtorAgent": {
+            "Identification": "6289224"
+        },
+        "DebtorAccount": {
+            "Identification": "GB03RQJL51901069557816",
+            "SchemeName": "IBAN",
+            "Name": "Roberts, Adams and Payne",
+            "Currency": "SPL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "5fcb6dcf4c40483bafd26b3e1e562d10",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "9de035735709406ca383857403c61bb8",
+            "MandateId": "a6f24a30bdf0464eb49db8b968380d6b",
+            "ChequeNumber": "2287",
+            "TransactionReference": "20200611-000058"
+        },
+        "RelatedParties": {
+            "CreditorId": "7254736",
+            "UltimateCreditor": "Young, Ramirez and Allen",
+            "UltimateDebtor": "Bailey-Wood"
+        }
+    },
+    {
+        "TransactionId": "5935979",
+        "Amount": 806.12,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-07-16T07:00:29",
+        "ValueDateTime": "2027-05-22T14:01:00",
+        "RemittanceInformationUnstructured": "now",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6068229"
+        },
+        "CreditorAccount": {
+            "Identification": "GB02EVMZ51304947082679",
+            "SchemeName": "IBAN",
+            "Name": "Luna PLC",
+            "Currency": "KZT"
+        },
+        "DebtorAgent": {
+            "Identification": "2994698"
+        },
+        "DebtorAccount": {
+            "Identification": "GB74KKZF98834920586240",
+            "SchemeName": "IBAN",
+            "Name": "Garcia-Johnson",
+            "Currency": "LSL"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "7f16f29f1faf4101b4d44879410eb110",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "451e04044b8c48b580eac8f3123aef96",
+            "MandateId": "2859b74ce53f4124badb2f40cf2d170c",
+            "ChequeNumber": "1669",
+            "TransactionReference": "20230615-222231"
+        },
+        "RelatedParties": {
+            "CreditorId": "2403143",
+            "UltimateCreditor": "Holder LLC",
+            "UltimateDebtor": "Rose, Wilson and Ortiz"
+        }
+    },
+    {
+        "TransactionId": "3196196",
+        "Amount": 923.34,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-04-07T09:55:20",
+        "ValueDateTime": "2029-04-29T14:22:52",
+        "RemittanceInformationUnstructured": "moment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "and Sons"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "9673901"
+        },
+        "CreditorAccount": {
+            "Identification": "GB04HZIP67381111178048",
+            "SchemeName": "IBAN",
+            "Name": "Howard-Flynn",
+            "Currency": "TVD"
+        },
+        "DebtorAgent": {
+            "Identification": "8141424"
+        },
+        "DebtorAccount": {
+            "Identification": "GB57IMMY40609024250903",
+            "SchemeName": "IBAN",
+            "Name": "Lewis-Smith",
+            "Currency": "XAF"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "d076f36d02a14a23828144e80ef40db4",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "da1f2e4003ab48ffbf94771289532232",
+            "MandateId": "79e8f82d55ac43d68439232c9a9179e1",
+            "ChequeNumber": "3375",
+            "TransactionReference": "20220730-200615"
+        },
+        "RelatedParties": {
+            "CreditorId": "3664176",
+            "UltimateCreditor": "Flores, Sims and Robbins",
+            "UltimateDebtor": "Pittman, Shepherd and Goodman"
+        }
+    },
+    {
+        "TransactionId": "4298631",
+        "Amount": 493.8,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-16T21:51:58",
+        "ValueDateTime": "2029-08-01T08:08:53",
+        "RemittanceInformationUnstructured": "remain",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2783243"
+        },
+        "CreditorAccount": {
+            "Identification": "GB25UDBF39538042227232",
+            "SchemeName": "IBAN",
+            "Name": "Allen Group",
+            "Currency": "MGA"
+        },
+        "DebtorAgent": {
+            "Identification": "3229497"
+        },
+        "DebtorAccount": {
+            "Identification": "GB57AJPW39465727516223",
+            "SchemeName": "IBAN",
+            "Name": "Rhodes, Williams and Harrison",
+            "Currency": "ANG"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "f72a2bc5152144acb62d2298ebe4f554",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "d1f14cb104694a9cb562c3c627b12c27",
+            "MandateId": "fb55eb5845f247329eefdc3e99d6915d",
+            "ChequeNumber": "3074",
+            "TransactionReference": "20210809-055816"
+        },
+        "RelatedParties": {
+            "CreditorId": "9772940",
+            "UltimateCreditor": "Houston LLC",
+            "UltimateDebtor": "Johnson-Taylor"
+        }
+    },
+    {
+        "TransactionId": "9884862",
+        "Amount": 579.9,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2022-02-21T20:54:37",
+        "ValueDateTime": "2028-06-26T23:34:24",
+        "RemittanceInformationUnstructured": "sort",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "6264519"
+        },
+        "CreditorAccount": {
+            "Identification": "GB94UQPI31860420219348",
+            "SchemeName": "IBAN",
+            "Name": "Rios, Moore and Morris",
+            "Currency": "LYD"
+        },
+        "DebtorAgent": {
+            "Identification": "2577663"
+        },
+        "DebtorAccount": {
+            "Identification": "GB32DXNZ38368338399529",
+            "SchemeName": "IBAN",
+            "Name": "Carter-Miller",
+            "Currency": "PYG"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "d2df72ff0aa14be1990fdbac413e5097",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1baf0926865b4d08a784b11befde9a88",
+            "MandateId": "9b0359120bf9456ab090c7fb6a962f17",
+            "ChequeNumber": "6059",
+            "TransactionReference": "20210310-195413"
+        },
+        "RelatedParties": {
+            "CreditorId": "7410309",
+            "UltimateCreditor": "Ray-Johnson",
+            "UltimateDebtor": "Miller PLC"
+        }
+    },
+    {
+        "TransactionId": "5713676",
+        "Amount": 60.73,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-28T23:26:19",
+        "ValueDateTime": "2029-10-30T18:26:27",
+        "RemittanceInformationUnstructured": "their",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4265647"
+        },
+        "CreditorAccount": {
+            "Identification": "GB11JDNK30258058333137",
+            "SchemeName": "IBAN",
+            "Name": "Hunter Inc",
+            "Currency": "ARS"
+        },
+        "DebtorAgent": {
+            "Identification": "4057972"
+        },
+        "DebtorAccount": {
+            "Identification": "GB70VZMA54786867668011",
+            "SchemeName": "IBAN",
+            "Name": "Williams-Brown",
+            "Currency": "KPW"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "868d7408407c462a95b9724b3b0f908b",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "5cecbabfdbe049dd912b20d7b73c8778",
+            "MandateId": "8d7fc957a81249a3a295cddc24acfcd9",
+            "ChequeNumber": "5674",
+            "TransactionReference": "20200508-111302"
+        },
+        "RelatedParties": {
+            "CreditorId": "4007393",
+            "UltimateCreditor": "Wilson, Kramer and Martin",
+            "UltimateDebtor": "Smith Inc"
+        }
+    },
+    {
+        "TransactionId": "6572188",
+        "Amount": 423.72,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-08-10T09:11:06",
+        "ValueDateTime": "2025-12-23T08:41:32",
+        "RemittanceInformationUnstructured": "their",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3860837"
+        },
+        "CreditorAccount": {
+            "Identification": "GB03KQBE06232002200230",
+            "SchemeName": "IBAN",
+            "Name": "Franklin, Stevens and Morales",
+            "Currency": "AFN"
+        },
+        "DebtorAgent": {
+            "Identification": "4579902"
+        },
+        "DebtorAccount": {
+            "Identification": "GB07TOAB59558829584138",
+            "SchemeName": "IBAN",
+            "Name": "Parker-Pitts",
+            "Currency": "DJF"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "d92d2781ada74097b5acd9d9b4fc3190",
+            "Type": "SCOR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "253ba936af4e4336bdf77e4e6ba6d479",
+            "MandateId": "d1107ea35ee74d30af4f173b72883772",
+            "ChequeNumber": "8499",
+            "TransactionReference": "20201008-005432"
+        },
+        "RelatedParties": {
+            "CreditorId": "7638776",
+            "UltimateCreditor": "Brown, Ferguson and Clark",
+            "UltimateDebtor": "Jacobs, Cuevas and Thomas"
+        }
+    },
+    {
+        "TransactionId": "3098899",
+        "Amount": 794.88,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2022-12-02T07:14:10",
+        "ValueDateTime": "2024-03-30T00:37:54",
+        "RemittanceInformationUnstructured": "including",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3894837"
+        },
+        "CreditorAccount": {
+            "Identification": "GB14PYVU81793674496563",
+            "SchemeName": "IBAN",
+            "Name": "Stewart-Thompson",
+            "Currency": "IDR"
+        },
+        "DebtorAgent": {
+            "Identification": "4915171"
+        },
+        "DebtorAccount": {
+            "Identification": "GB62MVWC35777821342013",
+            "SchemeName": "IBAN",
+            "Name": "Robbins-Carroll",
+            "Currency": "KYD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "4e65eec5229d4788a025f6ece782d3d4",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "0c7804468afc43dfb0f699b40f426502",
+            "MandateId": "32fcf47a8a674166a5bcab6f33098209",
+            "ChequeNumber": "9044",
+            "TransactionReference": "20220314-023354"
+        },
+        "RelatedParties": {
+            "CreditorId": "4028818",
+            "UltimateCreditor": "Gaines-Carson",
+            "UltimateDebtor": "Anderson-Baker"
+        }
+    },
+    {
+        "TransactionId": "1728125",
+        "Amount": 5.65,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-07-19T03:51:21",
+        "ValueDateTime": "2023-10-21T17:52:42",
+        "RemittanceInformationUnstructured": "attention",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8756297"
+        },
+        "CreditorAccount": {
+            "Identification": "GB65ZYZU55172486053841",
+            "SchemeName": "IBAN",
+            "Name": "Davis-Freeman",
+            "Currency": "KPW"
+        },
+        "DebtorAgent": {
+            "Identification": "4389298"
+        },
+        "DebtorAccount": {
+            "Identification": "GB37YOHL12598352071756",
+            "SchemeName": "IBAN",
+            "Name": "Cline, Duncan and Collins",
+            "Currency": "TTD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "a216d0acd8884a66840e19a6e47fe2dc",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "31feb5d7e1704902afd2dd0138655b1a",
+            "MandateId": "6f0723dbbd1949f79ef4da8118fa4fa7",
+            "ChequeNumber": "8106",
+            "TransactionReference": "20201103-150733"
+        },
+        "RelatedParties": {
+            "CreditorId": "1763711",
+            "UltimateCreditor": "Joyce Inc",
+            "UltimateDebtor": "Lane Ltd"
+        }
+    },
+    {
+        "TransactionId": "2063072",
+        "Amount": 27.99,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2021-03-20T23:38:45",
+        "ValueDateTime": "2026-06-05T07:53:44",
+        "RemittanceInformationUnstructured": "series",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "RENT"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Inc"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7990714"
+        },
+        "CreditorAccount": {
+            "Identification": "GB52NFCY41246383352149",
+            "SchemeName": "IBAN",
+            "Name": "Miller-Jordan",
+            "Currency": "USD"
+        },
+        "DebtorAgent": {
+            "Identification": "2485329"
+        },
+        "DebtorAccount": {
+            "Identification": "GB45PPNK65929929767453",
+            "SchemeName": "IBAN",
+            "Name": "Flynn Group",
+            "Currency": "THB"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "54ae5f00999949d5bb1fb53f20b403b8",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "d1394684f0814e2093f13541d9e43004",
+            "MandateId": "95d64fb014424b0f9de3bda7cf1b6473",
+            "ChequeNumber": "8698",
+            "TransactionReference": "20201130-073957"
+        },
+        "RelatedParties": {
+            "CreditorId": "9443839",
+            "UltimateCreditor": "Davis PLC",
+            "UltimateDebtor": "Butler and Sons"
+        }
+    },
+    {
+        "TransactionId": "7359664",
+        "Amount": 758.4,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-12-29T04:27:34",
+        "ValueDateTime": "2027-11-30T13:59:42",
+        "RemittanceInformationUnstructured": "Mrs",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "8419284"
+        },
+        "CreditorAccount": {
+            "Identification": "GB32MNOS37025700944530",
+            "SchemeName": "IBAN",
+            "Name": "Neal, Johnson and Thompson",
+            "Currency": "DOP"
+        },
+        "DebtorAgent": {
+            "Identification": "6844269"
+        },
+        "DebtorAccount": {
+            "Identification": "GB30ALIA95698728562575",
+            "SchemeName": "IBAN",
+            "Name": "Chavez, White and Johnson",
+            "Currency": "DZD"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "11a823df235f4b3b957a3973420d2003",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "91639ccd6e4640a1a86f4080c1e7f629",
+            "MandateId": "02bc53dfc5b0428abfd05be553440f2b",
+            "ChequeNumber": "3997",
+            "TransactionReference": "20200314-035720"
+        },
+        "RelatedParties": {
+            "CreditorId": "2635227",
+            "UltimateCreditor": "Ibarra-Long",
+            "UltimateDebtor": "Hill, Johnson and Oneill"
+        }
+    },
+    {
+        "TransactionId": "4465742",
+        "Amount": 165.17,
+        "Currency": "GB",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-06-20T11:16:36",
+        "ValueDateTime": "2024-06-01T08:02:25",
+        "RemittanceInformationUnstructured": "win",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3837221"
+        },
+        "CreditorAccount": {
+            "Identification": "GB20MWYV57133571955848",
+            "SchemeName": "IBAN",
+            "Name": "Rice LLC",
+            "Currency": "LSL"
+        },
+        "DebtorAgent": {
+            "Identification": "5020898"
+        },
+        "DebtorAccount": {
+            "Identification": "GB43ESRZ29178800413000",
+            "SchemeName": "IBAN",
+            "Name": "Orozco-Ramirez",
+            "Currency": "TWD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "11443bec88cb4f608d8e5da0c0b15327",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "01d670b4ac6d469da6f3b738d51be64a",
+            "MandateId": "d9512d04fcef403ba188d0343a69fed3",
+            "ChequeNumber": "5004",
+            "TransactionReference": "20200309-090555"
+        },
+        "RelatedParties": {
+            "CreditorId": "2066209",
+            "UltimateCreditor": "Ayala, Ferguson and Guzman",
+            "UltimateDebtor": "White, West and Young"
+        }
+    },
+    {
+        "TransactionId": "7223171",
+        "Amount": 142.16,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-07-21T02:32:34",
+        "ValueDateTime": "2023-11-29T19:16:42",
+        "RemittanceInformationUnstructured": "image",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "3004889"
+        },
+        "CreditorAccount": {
+            "Identification": "GB85EHEA75280286780424",
+            "SchemeName": "IBAN",
+            "Name": "Watts-Howell",
+            "Currency": "MWK"
+        },
+        "DebtorAgent": {
+            "Identification": "2315293"
+        },
+        "DebtorAccount": {
+            "Identification": "GB38DLZC21160134638852",
+            "SchemeName": "IBAN",
+            "Name": "Rodriguez, Deleon and Haas",
+            "Currency": "MYR"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "06360d52c1854f31ac5a8fac01508a05",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5e3efd734b69401eb901515a867d790b",
+            "MandateId": "2e1b39246b95473ea37f46181c2fda47",
+            "ChequeNumber": "7029",
+            "TransactionReference": "20220702-054405"
+        },
+        "RelatedParties": {
+            "CreditorId": "3527108",
+            "UltimateCreditor": "Howe Group",
+            "UltimateDebtor": "Young and Sons"
+        }
+    },
+    {
+        "TransactionId": "4864873",
+        "Amount": 950.8,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2020-01-26T05:51:51",
+        "ValueDateTime": "2027-08-15T06:37:19",
+        "RemittanceInformationUnstructured": "section",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4816725"
+        },
+        "CreditorAccount": {
+            "Identification": "GB51OCIU55333677949474",
+            "SchemeName": "IBAN",
+            "Name": "Carroll, Owens and Morgan",
+            "Currency": "BRL"
+        },
+        "DebtorAgent": {
+            "Identification": "7945007"
+        },
+        "DebtorAccount": {
+            "Identification": "GB19EVEP03689872097626",
+            "SchemeName": "IBAN",
+            "Name": "Soto LLC",
+            "Currency": "UAH"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "2cb4baadc15c456bacd62b74c5f09cd6",
+            "Type": "INFO",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "bd35ab1c7dfb4e749178954f9101f723",
+            "MandateId": "28e48794486c4004acd578a0c9ea8e00",
+            "ChequeNumber": "1662",
+            "TransactionReference": "20211211-024806"
+        },
+        "RelatedParties": {
+            "CreditorId": "9575506",
+            "UltimateCreditor": "Santiago-Montgomery",
+            "UltimateDebtor": "Vaughan, Hill and Davis"
+        }
+    },
+    {
+        "TransactionId": "5081325",
+        "Amount": 775.4,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-09-23T11:55:00",
+        "ValueDateTime": "2028-03-23T06:27:20",
+        "RemittanceInformationUnstructured": "performance",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "LLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4251140"
+        },
+        "CreditorAccount": {
+            "Identification": "GB95GDAM46366733904166",
+            "SchemeName": "IBAN",
+            "Name": "Shea-Williams",
+            "Currency": "HUF"
+        },
+        "DebtorAgent": {
+            "Identification": "5781959"
+        },
+        "DebtorAccount": {
+            "Identification": "GB96OQMZ74042234307240",
+            "SchemeName": "IBAN",
+            "Name": "Cummings-Fisher",
+            "Currency": "LBP"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "0cd665d8c1054aa0831e6297d3b2f9c1",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "effd6a7b794b447ca301d5b979758db1",
+            "MandateId": "83eeaa9a4477409a91ec2b2895018a95",
+            "ChequeNumber": "3762",
+            "TransactionReference": "20200120-080747"
+        },
+        "RelatedParties": {
+            "CreditorId": "1821857",
+            "UltimateCreditor": "Johnston-Harris",
+            "UltimateDebtor": "Stevens, Chavez and Mendoza"
+        }
+    },
+    {
+        "TransactionId": "2011310",
+        "Amount": 355.6,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-04-19T13:39:12",
+        "ValueDateTime": "2028-10-28T03:15:45",
+        "RemittanceInformationUnstructured": "region",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "FEE"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "Group"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2427156"
+        },
+        "CreditorAccount": {
+            "Identification": "GB89ZTLJ82677883277587",
+            "SchemeName": "IBAN",
+            "Name": "Walsh Ltd",
+            "Currency": "UGX"
+        },
+        "DebtorAgent": {
+            "Identification": "8588981"
+        },
+        "DebtorAccount": {
+            "Identification": "GB59HKWY96406418706167",
+            "SchemeName": "IBAN",
+            "Name": "Fuller-Reed",
+            "Currency": "FJD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "63f18a6db9614f0f87373c68ee7f2dc0",
+            "Type": "INFO",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "b910cc324b25441babeb3e03b3844904",
+            "MandateId": "68bf70c5bfdf4e51a4930e67be8a2118",
+            "ChequeNumber": "3209",
+            "TransactionReference": "20211128-030040"
+        },
+        "RelatedParties": {
+            "CreditorId": "2820400",
+            "UltimateCreditor": "Thompson-Waller",
+            "UltimateDebtor": "Moore-Brooks"
+        }
+    },
+    {
+        "TransactionId": "1240611",
+        "Amount": 981.17,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2020-09-13T20:22:24",
+        "ValueDateTime": "2026-09-20T19:21:29",
+        "RemittanceInformationUnstructured": "kind",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "Ltd"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "2753500"
+        },
+        "CreditorAccount": {
+            "Identification": "GB43UXGK09078877565535",
+            "SchemeName": "IBAN",
+            "Name": "Watkins and Sons",
+            "Currency": "SLL"
+        },
+        "DebtorAgent": {
+            "Identification": "2524171"
+        },
+        "DebtorAccount": {
+            "Identification": "GB53BONW11473262790902",
+            "SchemeName": "IBAN",
+            "Name": "Livingston PLC",
+            "Currency": "CAD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "2fa5281765c74d579911a8c33d257d94",
+            "Type": "REFR",
+            "Issuer": "Local"
+        },
+        "References": {
+            "EndToEndId": "62947a4d4baa4a73bf771b5e3fa229c5",
+            "MandateId": "85b8bde5791f480e9c544588d215fa09",
+            "ChequeNumber": "6662",
+            "TransactionReference": "20230722-075500"
+        },
+        "RelatedParties": {
+            "CreditorId": "7176582",
+            "UltimateCreditor": "Jenkins, Mcfarland and Wheeler",
+            "UltimateDebtor": "Wilson Ltd"
+        }
+    },
+    {
+        "TransactionId": "3057563",
+        "Amount": 162.6,
+        "Currency": "GB",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "PEND",
+        "BookingDateTime": "2023-09-15T07:43:58",
+        "ValueDateTime": "2024-08-05T11:38:46",
+        "RemittanceInformationUnstructured": "know",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "TRNS",
+                "FamilyCode": "RCVD",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "RentPayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "4852885"
+        },
+        "CreditorAccount": {
+            "Identification": "GB58YDRW86234491394140",
+            "SchemeName": "IBAN",
+            "Name": "King, Morgan and Tucker",
+            "Currency": "MXN"
+        },
+        "DebtorAgent": {
+            "Identification": "9828998"
+        },
+        "DebtorAccount": {
+            "Identification": "GB96ZKDT40796276441469",
+            "SchemeName": "IBAN",
+            "Name": "Moss, Doyle and Larson",
+            "Currency": "TWD"
+        },
+        "PurposeCode": "FEE",
+        "RemittanceInformationStructured": {
+            "Reference": "6488f3d65e164e2482b5d9a9f3a5a2d2",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "27c481662d71405289be0c1f410db2bf",
+            "MandateId": "a0a3a2124d21470589fca35ea52f6f78",
+            "ChequeNumber": "9001",
+            "TransactionReference": "20220112-174906"
+        },
+        "RelatedParties": {
+            "CreditorId": "7800004",
+            "UltimateCreditor": "Fisher, Madden and Dean",
+            "UltimateDebtor": "Prince-Lewis"
+        }
+    },
+    {
+        "TransactionId": "4273468",
+        "Amount": 750.53,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "DBIT",
+        "Status": "PEND",
+        "BookingDateTime": "2021-10-24T21:46:38",
+        "ValueDateTime": "2026-08-08T11:41:20",
+        "RemittanceInformationUnstructured": "street",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "INTR",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "FeePayment",
+                "Issuer": "PLC"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "7249659"
+        },
+        "CreditorAccount": {
+            "Identification": "GB74REHI71242437453250",
+            "SchemeName": "IBAN",
+            "Name": "Park, Brown and Barrett",
+            "Currency": "LBP"
+        },
+        "DebtorAgent": {
+            "Identification": "7922232"
+        },
+        "DebtorAccount": {
+            "Identification": "GB44XFUX88597915996972",
+            "SchemeName": "IBAN",
+            "Name": "Dorsey-Sanchez",
+            "Currency": "JOD"
+        },
+        "PurposeCode": "RENT",
+        "RemittanceInformationStructured": {
+            "Reference": "9d46585dc2f84ae09367441df26c8053",
+            "Type": "REFR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9e1784468c024724bebaa10d8c8b0601",
+            "MandateId": "d20e4f9a27cb410db8b0cf6bf631738c",
+            "ChequeNumber": "2004",
+            "TransactionReference": "20220712-101702"
+        },
+        "RelatedParties": {
+            "CreditorId": "9093945",
+            "UltimateCreditor": "Johnson PLC",
+            "UltimateDebtor": "Martinez LLC"
+        }
+    }
+]

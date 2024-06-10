@@ -1,0 +1,551 @@
+{
+  "AccountId": "178012",
+  "Transactions": [
+    {
+      "TransactionId": 8465452,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828177",
+      "ValueDateTime": "2023-10-24T08:39:33.828180",
+      "RemittanceInformationUnstructured": "Pay consumer describe specific speech.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 9568930,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-09-24T08:39:33.828192",
+      "ValueDateTime": "2023-09-24T08:39:33.828194",
+      "RemittanceInformationUnstructured": "Term analysis themselves growth.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 4451416,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-08-25T08:39:33.828203",
+      "ValueDateTime": "2023-08-25T08:39:33.828204",
+      "RemittanceInformationUnstructured": "Move benefit especially now trial stand add.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 9328113,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-07-26T08:39:33.828212",
+      "ValueDateTime": "2023-07-26T08:39:33.828214",
+      "RemittanceInformationUnstructured": "Body thank expert final certainly network.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 3886799,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-06-26T08:39:33.828222",
+      "ValueDateTime": "2023-06-26T08:39:33.828223",
+      "RemittanceInformationUnstructured": "Think letter mother item.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 3962370,
+      "Amount": 2000.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-05-27T08:39:33.828230",
+      "ValueDateTime": "2023-05-27T08:39:33.828231",
+      "RemittanceInformationUnstructured": "Sometimes human third rule wide effort.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "YourCompany"
+        }
+      }
+    },
+    {
+      "TransactionId": 6616159,
+      "Amount": 65.64,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827836",
+      "ValueDateTime": "2023-10-24T08:39:33.827840",
+      "RemittanceInformationUnstructured": "Affect current beat foot.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 9924233,
+      "Amount": 153.74,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827861",
+      "ValueDateTime": "2023-10-24T08:39:33.827862",
+      "RemittanceInformationUnstructured": "Represent suddenly we and eye possible strategy.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 2285689,
+      "Amount": 397.1,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827873",
+      "ValueDateTime": "2023-10-24T08:39:33.827873",
+      "RemittanceInformationUnstructured": "Type scene force both.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 6016310,
+      "Amount": 73.0,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827882",
+      "ValueDateTime": "2023-10-24T08:39:33.827883",
+      "RemittanceInformationUnstructured": "Yard unit recently federal.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 9821063,
+      "Amount": 52.74,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827890",
+      "ValueDateTime": "2023-10-24T08:39:33.827891",
+      "RemittanceInformationUnstructured": "Goal energy country company yeah.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 6953418,
+      "Amount": 335.35,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827899",
+      "ValueDateTime": "2023-10-24T08:39:33.827900",
+      "RemittanceInformationUnstructured": "Top government design break.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 8338182,
+      "Amount": 381.27,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827907",
+      "ValueDateTime": "2023-10-24T08:39:33.827907",
+      "RemittanceInformationUnstructured": "Approach most street present enter.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 7677926,
+      "Amount": 373.95,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827914",
+      "ValueDateTime": "2023-10-24T08:39:33.827915",
+      "RemittanceInformationUnstructured": "Evening main much Republican operation away thank.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 4532379,
+      "Amount": 330.8,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827922",
+      "ValueDateTime": "2023-10-24T08:39:33.827923",
+      "RemittanceInformationUnstructured": "Find there glass official.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 4468176,
+      "Amount": 55.2,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.827930",
+      "ValueDateTime": "2023-10-24T08:39:33.827931",
+      "RemittanceInformationUnstructured": "Option life decide.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      }
+    },
+    {
+      "TransactionId": 5137323,
+      "Amount": 350.96,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828001",
+      "ValueDateTime": "2023-10-24T08:39:33.828002",
+      "RemittanceInformationUnstructured": "Ago administration management there sign take amount film.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 6349642,
+      "Amount": 99.79,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828013",
+      "ValueDateTime": "2023-10-24T08:39:33.828014",
+      "RemittanceInformationUnstructured": "His simply close lay consider for.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 4495972,
+      "Amount": 421.23,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828023",
+      "ValueDateTime": "2023-10-24T08:39:33.828024",
+      "RemittanceInformationUnstructured": "Bar hand artist very share sister into line.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 3380641,
+      "Amount": 314.47,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828034",
+      "ValueDateTime": "2023-10-24T08:39:33.828035",
+      "RemittanceInformationUnstructured": "Leg different lot camera mouth official to.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 4305065,
+      "Amount": 409.75,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828043",
+      "ValueDateTime": "2023-10-24T08:39:33.828044",
+      "RemittanceInformationUnstructured": "Young major head where southern data whom.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 5022114,
+      "Amount": 459.69,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828052",
+      "ValueDateTime": "2023-10-24T08:39:33.828052",
+      "RemittanceInformationUnstructured": "Situation hot grow country bad task.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 2983356,
+      "Amount": 491.84,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828060",
+      "ValueDateTime": "2023-10-24T08:39:33.828061",
+      "RemittanceInformationUnstructured": "Network those miss push also store.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 2392900,
+      "Amount": 425.01,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828068",
+      "ValueDateTime": "2023-10-24T08:39:33.828069",
+      "RemittanceInformationUnstructured": "Explain various minute billion news who one.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 8410971,
+      "Amount": 41.47,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828077",
+      "ValueDateTime": "2023-10-24T08:39:33.828078",
+      "RemittanceInformationUnstructured": "Federal attack seem or they.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    },
+    {
+      "TransactionId": 2379858,
+      "Amount": 286.12,
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-24T08:39:33.828086",
+      "ValueDateTime": "2023-10-24T08:39:33.828087",
+      "RemittanceInformationUnstructured": "House great article choice available.",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "AmazonRefund",
+          "Issuer": "Amazon"
+        }
+      }
+    }
+  ]
+}

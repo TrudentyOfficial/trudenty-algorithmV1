@@ -1,0 +1,15 @@
+{
+    "AccountId": "178011",
+    "Currency": "EUR",
+    "Name": "Test Mustermann1",
+    "DisplayName": "display_name_of_account_1",
+    "AccountNumber": "DE67900900424711951500",
+    "OtherAccountNumber": "4711951500",
+    "AccountNumberType": "IBAN",
+    "AccountType": {
+        "Name": "CACC"
+    },
+    "Details": "PRIV",
+    "Product": "Girokonto",
+    "BIC": "DEMODE01"
+} 

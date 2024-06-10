@@ -1,0 +1,957 @@
+{
+  "AccountId": "178012",
+  "Transactions": [
+    {
+      "TransactionId": "e2eeb193-3f19-4b6f-8f98-31d07dc37023",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-11-09T11:21:08Z",
+      "ValueDateTime": "2023-11-09T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 1",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF6678600974",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "4b9dba71-e329-421c-8f07-1fe9fc5e1bb8",
+        "MandateId": "5e62a801-c20f-46da-9da3-97e827127968",
+        "ChequeNumber": "check1",
+        "TransactionReference": "20231109-1"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor1",
+        "UltimateCreditor": "Hansi Meier 1 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "85774ff0-c9b6-4c69-9813-223644a30f2c",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-10-10T11:21:08Z",
+      "ValueDateTime": "2023-10-10T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 2",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF2941261352",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "34e6be33-4594-4c61-b626-c51e35dc1a3c",
+        "MandateId": "1bbeedbb-b561-42b7-b1fd-1888c48be223",
+        "ChequeNumber": "check2",
+        "TransactionReference": "20231109-2"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor2",
+        "UltimateCreditor": "Hansi Meier 2 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "6de25475-ef38-4245-9ecc-33cb260c6aa3",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-09-10T11:21:08Z",
+      "ValueDateTime": "2023-09-10T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 3",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF3273554435",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "745a7aba-9c89-4e4c-8998-7af8e664abfd",
+        "MandateId": "502db4c5-3c64-4d24-86d0-6a50641a3d95",
+        "ChequeNumber": "check3",
+        "TransactionReference": "20231109-3"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor3",
+        "UltimateCreditor": "Hansi Meier 3 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "8079d157-f91f-455d-9700-c37f7f75f61c",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-08-11T11:21:08Z",
+      "ValueDateTime": "2023-08-11T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 4",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF7230547432",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "d38ccda5-2aef-4026-9072-efe019071349",
+        "MandateId": "9417506a-cab2-4dda-b431-a5bf39e3a714",
+        "ChequeNumber": "check4",
+        "TransactionReference": "20231109-4"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor4",
+        "UltimateCreditor": "Hansi Meier 4 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "313fcfbe-8267-4a21-b9fb-cd9199f6a009",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-07-12T11:21:08Z",
+      "ValueDateTime": "2023-07-12T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 5",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF3614412217",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "507262ea-8182-4263-b698-a97472670d7e",
+        "MandateId": "888c00e1-b28a-4cf2-851b-d87fe2a3bb5e",
+        "ChequeNumber": "check5",
+        "TransactionReference": "20231109-5"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor5",
+        "UltimateCreditor": "Hansi Meier 5 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "f4cce6d1-e085-4b69-9570-fbc9f7a28065",
+      "Amount": "4000.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-06-12T11:21:08Z",
+      "ValueDateTime": "2023-06-12T11:21:08Z",
+      "RemittanceInformationUnstructured": "Salary for Month 6",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCDT",
+          "SubCode": "SALA"
+        },
+        "Proprietary": {
+          "Code": "SalaryPayment",
+          "Issuer": "BG"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "SALA",
+      "RemittanceInformationStructured": {
+        "Reference": "RF654654165",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "8887f90f-d77b-498b-9f81-eaa1afba97d6",
+        "MandateId": "08e481ad-ba77-43fb-8bc0-9c489d4e32be",
+        "ChequeNumber": "check6",
+        "TransactionReference": "20231109-6"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor6",
+        "UltimateCreditor": "Hansi Meier 6 U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "554203f7-bc27-4499-b83b-6711c2dd2bbb",
+      "Amount": "57.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2022-03-22T10:35:31Z",
+      "ValueDateTime": "2022-06-09T13:59:38Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF6921198086",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "168a5a1b-a003-45b2-8dbf-489476f99300",
+        "MandateId": "22f4aad4-8e57-4688-a7a2-587408e5c4a1",
+        "ChequeNumber": "check751",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "c184f88a-878a-4c3a-a0a2-0a3ead14e299",
+      "Amount": "34.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-06-04T18:47:33Z",
+      "ValueDateTime": "2020-12-26T06:00:24Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF6682881434",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "76a00c4d-0e9f-4c62-9b53-5a7b7a96288d",
+        "MandateId": "f3906e2b-358d-4476-b243-e7a5fd206cf7",
+        "ChequeNumber": "check396",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "8ee5c96f-397e-4c35-8959-a940c11add4c",
+      "Amount": "76.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2021-07-06T00:59:42Z",
+      "ValueDateTime": "2020-12-04T09:55:11Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF6549483235",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "a01171f8-7895-4970-b2b8-de74cb64ad83",
+        "MandateId": "22643fd0-fefd-4062-8c40-f58f72b17dd1",
+        "ChequeNumber": "check349",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "bc9a7792-8644-4a55-8f7e-ca0097463cd8",
+      "Amount": "82.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2020-11-27T17:26:23Z",
+      "ValueDateTime": "2022-12-16T23:31:19Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF2841120734",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "92578fce-976e-4dd2-b2fd-59ddec0f8c11",
+        "MandateId": "dfc61b7a-2bb4-45ea-88b0-8e7766db787b",
+        "ChequeNumber": "check654",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "041f982f-e4e9-4847-b161-f154c0185a86",
+      "Amount": "38.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2020-04-29T07:33:02Z",
+      "ValueDateTime": "2022-05-30T12:10:11Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF8667824579",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "d7978438-8136-453e-a562-302c431666a8",
+        "MandateId": "97823c5a-71a1-4626-8ece-1959b055f15b",
+        "ChequeNumber": "check486",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "36db8c91-153e-4880-80ca-76af16153ccf",
+      "Amount": "11.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2022-07-01T21:26:33Z",
+      "ValueDateTime": "2022-08-22T04:18:35Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF925179509",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "faec9f21-b6f9-465e-bdfc-ec395d26d224",
+        "MandateId": "90988308-3395-4aa4-859e-6e0e972a6d28",
+        "ChequeNumber": "check594",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "f19082f7-60e0-465a-82d0-752ce38a59c6",
+      "Amount": "71.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2020-12-13T23:07:08Z",
+      "ValueDateTime": "2022-05-19T09:51:39Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF1983607164",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "054dbcf3-18b1-40b8-969a-14dec4287e0b",
+        "MandateId": "0a0deb6b-69e1-415b-a6f4-ddef1351def9",
+        "ChequeNumber": "check616",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "274e86d0-7d92-49ea-98a9-80b520860afb",
+      "Amount": "97.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2022-01-11T06:11:04Z",
+      "ValueDateTime": "2021-09-29T13:51:03Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF6447275487",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "cdc7368c-de29-4928-82af-020516aead21",
+        "MandateId": "8b459ace-a3ea-4dd6-b158-22046625822d",
+        "ChequeNumber": "check732",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "95f14d24-0633-42d4-9f5a-b337cb43ee08",
+      "Amount": "44.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2020-03-01T10:40:33Z",
+      "ValueDateTime": "2021-09-29T14:07:08Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF7811718783",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "ea354981-c98a-4ea9-81b1-8ef7bed7b8eb",
+        "MandateId": "843dca46-fd1e-4876-9314-7d2c671b1e99",
+        "ChequeNumber": "check206",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "0a131b05-13be-4bbb-9e87-1e3a010b0546",
+      "Amount": "79.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "CRDT",
+      "Status": "BOOK",
+      "BookingDateTime": "2023-07-15T12:15:59Z",
+      "ValueDateTime": "2021-09-28T13:01:25Z",
+      "RemittanceInformationUnstructured": "PayPal Payment",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "PAYP"
+        },
+        "Proprietary": {
+          "Code": "PayPalPayment",
+          "Issuer": "PayPal"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "paypal_creditor_agent"
+      },
+      "CreditorAccount": {
+        "Identification": "paypal@example.com",
+        "SchemeName": "PayPal",
+        "Name": "PayPal Account",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "PAYP",
+      "RemittanceInformationStructured": {
+        "Reference": "RF649519054",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "64032cbf-5965-414a-90f7-3f7b7433777f",
+        "MandateId": "61eb5c6c-3fa8-48fe-b647-628f557252b2",
+        "ChequeNumber": "check169",
+        "TransactionReference": "20231109-PAYP"
+      },
+      "RelatedParties": {
+        "CreditorId": "paypal_creditor",
+        "UltimateCreditor": "PayPal U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    },
+    {
+      "TransactionId": "de20d081-d534-46a8-8f36-d823af31c838",
+      "Amount": "50.00",
+      "Currency": "EUR",
+      "CreditDebitIndicator": "DBIT",
+      "Status": "CANCELLED",
+      "BookingDateTime": "2020-09-29T07:47:06Z",
+      "ValueDateTime": "2020-06-06T22:51:39Z",
+      "RemittanceInformationUnstructured": "Cancelled Transaction",
+      "BankTransactionCode": {
+        "Domain": {
+          "DomainCode": "PMNT",
+          "FamilyCode": "RCPT",
+          "SubCode": "OTHR"
+        },
+        "Proprietary": {
+          "Code": "CancelledTransaction",
+          "Issuer": "Bank"
+        }
+      },
+      "CreditorAgent": {
+        "Identification": "creditor_agent_identification"
+      },
+      "CreditorAccount": {
+        "Identification": "DE78900900424711121212",
+        "SchemeName": "IBAN",
+        "Name": "Hansi Meier",
+        "Currency": "EUR"
+      },
+      "DebtorAgent": {
+        "Identification": "debtor_agent_identification"
+      },
+      "DebtorAccount": {
+        "Identification": "DE87123456781234567891",
+        "SchemeName": "IBAN",
+        "Name": "Elias Book Store",
+        "Currency": "EUR"
+      },
+      "PurposeCode": "OTHR",
+      "RemittanceInformationStructured": {
+        "Reference": "RF598986670",
+        "Type": "SCOR",
+        "Issuer": "ISO"
+      },
+      "References": {
+        "EndToEndId": "83ca47c9-220a-4efb-8f31-35dcb5d2b312",
+        "MandateId": "605a2ddc-3de3-44d7-8078-b2e8f2a89f16",
+        "ChequeNumber": "check734",
+        "TransactionReference": "20231109-CANCELLED"
+      },
+      "RelatedParties": {
+        "CreditorId": "creditor_cancelled",
+        "UltimateCreditor": "Hansi Meier Cancelled U",
+        "UltimateDebtor": "Elias Book Store U"
+      }
+    }
+  ]
+}

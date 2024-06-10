@@ -1,0 +1,5378 @@
+[
+    {
+        "TransactionId": 3687024,
+        "Amount": 4500.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0d212b37-1993-4ff7-a825-9d091e7bc70c",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2ac117d1-a4b5-433d-88d3-60c3a7d5c3a1",
+            "MandateId": "a0b6bdcf-76d5-440c-aeff-7bbf1c6989e7",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9688499,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0ef75d36-d2ec-45e1-a298-9284b9af2523",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a10d4222-31e9-4519-ada7-a3b46113ae24",
+            "MandateId": "2743b16c-6742-4cd5-9e8a-f932c2e7d7b5",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3689022,
+        "Amount": 4800.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "80aa5302-7be2-408e-aff8-a618afb18549",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0b92d3b9-0bf6-4a4d-b856-614dbefd6437",
+            "MandateId": "f2d139c0-9220-4238-81bf-e56c60a4c0de",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4953004,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "f0692280-3143-4fe4-9acd-7ccf2dfe90cd",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9f82f64e-5d1c-4afb-abfc-93008803def4",
+            "MandateId": "735a5146-a7d8-45b5-adaa-54003801c164",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7112117,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c5bbde96-82ae-4993-b916-c6888b81c28b",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9cce2608-c009-4afa-bfb5-c8e204829c08",
+            "MandateId": "bbeb8842-edb3-4697-8c83-70efa7852884",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3067578,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "68f51010-d27b-4f93-a8bf-058daa29f229",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a18c644f-7891-4dbf-a39e-2eeded41a8a4",
+            "MandateId": "17535123-ea40-49f1-81eb-9aa54bdfb2ee",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1225743,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "dc54b8ee-1b42-45b8-8eca-e731b93d6c65",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "72668d62-4a09-472e-a66b-edb431e9e75e",
+            "MandateId": "fe2633cf-6f3c-42f5-8c0f-8d4827ad6637",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2481848,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "94168251-4b0e-4a81-a91d-19fa581f3025",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "ad997a93-df07-4768-8657-cebeb1fb65c3",
+            "MandateId": "ae2c484d-d2aa-4fda-9e86-240f24bdb16a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2302948,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "d116913d-39ac-4173-8726-6c3213abfb10",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a239759a-e9ce-4bf5-b850-4c273d155997",
+            "MandateId": "af723252-5c7a-4d6e-aa55-5b21a9eed673",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9518577,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e022d9de-d89d-4119-8825-f03267ab5242",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "22ce0fd1-a399-44e4-a40d-856211651d8b",
+            "MandateId": "13a7a07f-3b5d-434b-bad6-7cf71316c849",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6524586,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0648f3ba-9086-47eb-a6fe-13c387f34289",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "acad167f-c7e5-4cd6-b618-803ad61fcf6b",
+            "MandateId": "12be9761-177a-428c-8119-2f306929b0e4",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3934048,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "470a407a-78dd-4e4b-9dba-2a9a581c6a51",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "86eeeca0-1f77-440e-a302-ae2e7e01979a",
+            "MandateId": "c013ccfc-3ba8-4711-ada8-43ac7b4ef651",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2880690,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0a838094-43ed-4d5e-a25f-1949a7fe6736",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "41d2485c-d1df-436b-98f1-c1f239d13e76",
+            "MandateId": "a1c40564-ed0e-4bbc-8d0d-89b8e132485e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5636365,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "1d175df5-ae4b-4011-9515-ad1528129ca6",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6e5aa1e4-2b70-46eb-bdb0-74ad2e8cf997",
+            "MandateId": "a2fc841c-ed44-41b4-a9ed-6561b0da7a77",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9542903,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "fc95c7f6-5e0e-46eb-a918-a858f647c978",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "61a7583d-5932-4674-9b95-0f71855be657",
+            "MandateId": "686c057d-fea3-493a-adca-fbbd81984b6c",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1847221,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-01-01T00:00:00",
+        "ValueDateTime": "2023-01-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "39a04d8e-7002-41e1-9bbc-237aa4d049a1",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "15d13fa1-02e0-4504-adba-284fc1c13c81",
+            "MandateId": "a08d1669-a3aa-4772-aaf3-d09b92bf78d5",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230101-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7923729,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "1cd1a526-ff0d-4bf0-9abf-6e0492041662",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "c31b6a23-dfcb-498f-b8d0-b0d28f41750f",
+            "MandateId": "da274920-ea49-4c1c-8d9e-f617c8179c70",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4480725,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "99498d3f-becd-44ec-b59d-14ef5de9434c",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "9a2e4a2a-df20-4f71-be03-7999713b5e88",
+            "MandateId": "9e9a508b-aa3b-4f46-94c5-cc03c32ab51b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2334236,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c2f7ac80-e6a9-4400-b92c-de8b193286d4",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "27f8ca20-eed9-4cd0-b494-fc5a51844b8e",
+            "MandateId": "3ee72831-293d-4e60-b021-c862ae13dddd",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3727487,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e15d7c43-ac5c-4de5-958b-a1054d844454",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0a51cf33-36dc-4bd3-90d2-fe00a8b0d8f6",
+            "MandateId": "5c73cb6c-c5b8-4756-875d-a4489bc85cfc",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3301238,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c6724808-a6b0-48d7-a048-8b67f522b387",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "623e71c7-b67c-46a7-b925-f7d2d4e7c6c2",
+            "MandateId": "2eea735a-3a9e-4f6a-acff-04d56c722105",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9549344,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "7401101f-3e1f-41cb-9d2a-9e5d765c5b86",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7ea6a0e6-3607-4dde-8808-435973a15b60",
+            "MandateId": "8ea3ef05-579b-4925-af34-7ba1ee27b748",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5582125,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "2e1e08b7-a3c4-4990-8888-1d459417793a",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "29c1f9c3-dcbb-44be-872b-8a8275f726cc",
+            "MandateId": "4c93b144-1fee-4cec-a2da-43b8ad19d5b1",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9165336,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "69dd9f76-cb33-4ae9-a965-5c5000ef0cce",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2433bb14-d75d-47e8-9e1b-e54bfe8a4667",
+            "MandateId": "1d7b601e-80ad-4dfe-adea-b53c98b5065e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7414473,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "6c0b8ee7-f431-4f54-a292-5088f4b45383",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "927715bf-e691-4f61-94be-50791692efb3",
+            "MandateId": "f8cb0fb0-7a4e-4019-b5fe-eb37cb6f0986",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1818557,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c1aba5c1-202a-45c2-b212-bda38a3952a6",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "825ed093-0074-47a4-9ff2-65dfc9d53709",
+            "MandateId": "b7f8fc31-ee08-42c1-b431-da7cb0e05337",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2081082,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0660c3f8-5cec-4551-ab4c-f2f9bed7ce1f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6f6511b9-2692-42cb-a523-f7a461cef2f8",
+            "MandateId": "6f45e0ce-3ab4-4859-b8ec-152ba59d4cfa",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8284512,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "a651f868-0af2-4510-9386-091197c2b5c2",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0b14a8e0-0db9-445a-86e3-613a86ef5273",
+            "MandateId": "780b3a81-fcaf-46f4-96e2-7b1a8a30c6d6",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1794608,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ee4d746d-7d8f-44c5-8c0a-94f65cf3b89e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "e999d7e0-2ce6-4409-9de4-79fa812721b8",
+            "MandateId": "e5ded2da-f924-4b62-ac5e-3eca2204fd2e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8771539,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ad37143e-0e58-4baf-8865-5ca378e9e0e1",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2e42a641-5351-444d-afb1-ffcea832b2e0",
+            "MandateId": "817a11d5-1420-49fb-bd77-7719d02b9f07",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1631660,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "a317b9b7-24bd-4b67-b010-cbdff1271a8b",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "3d8ecb2a-ee97-41df-bc6a-346630d02489",
+            "MandateId": "b9edd3ae-fa16-4024-ba0e-71b5f5823428",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2917654,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-02-01T00:00:00",
+        "ValueDateTime": "2023-02-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0a52f108-b43d-4901-bb63-df73f28b92b4",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "aef83a07-ff29-4593-8fdd-90780e6d78a3",
+            "MandateId": "ca74d9cc-be26-436f-9881-45d66eca12e8",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230201-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6027367,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "5106de40-cdf5-40e7-9a91-e1768a71347c",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a2396a58-0f18-4fe8-acd6-04eb3b2e7fe0",
+            "MandateId": "21c3f824-8fe8-4833-b3cf-ce3eff1fde5b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9643665,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "8ad52ee1-7d00-46a2-8b9a-bb0abee68c87",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "458c7194-6ef0-449f-8fbe-a302c1107a59",
+            "MandateId": "ce1fc08d-5671-4352-a915-cd4b6eed2753",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1843386,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "1b79a0cf-89f2-46c2-8e21-179bcc15167d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "317689ff-e1dd-4cad-87f1-455d7918c3f3",
+            "MandateId": "aa678b8f-b086-4a65-80ba-f96e42118559",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7540328,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "b7f01d8f-fb10-4568-8b85-0b32607f47d2",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5ba090c7-2f88-49eb-8639-767627f6d716",
+            "MandateId": "8e3a3556-fd94-4065-b237-d148874be79e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3608958,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "3b6e9643-9e65-49cf-b24e-9e0d31731a9f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5dad367b-a32c-4835-b8b9-101f20a12e4f",
+            "MandateId": "843f9a74-83f0-4314-aa18-cde87ad9f732",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9518757,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "55f146bb-85be-4bff-9000-0f1156c488b8",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "060402d4-6ffd-4fd3-a8a4-86e19dff2b9a",
+            "MandateId": "cf36e99e-9614-4172-8981-970946ad626a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4298855,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "cabd8407-f120-4537-b7a5-92b43a15b101",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "be261c25-d846-4535-8a0d-00c0f1fe3b13",
+            "MandateId": "6c34529f-ba3c-4ccd-939b-237a73e31938",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7313383,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "abc1a741-7075-4ce2-8dd3-829cfa80738a",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "b8a9e2a5-96df-4e04-8244-3b3d11cf3d3c",
+            "MandateId": "2f464916-eaf7-4a04-b740-b3bb0e1c5ada",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8882687,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "182bdaad-c7f7-4322-8497-261cb069d47d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7fbcef2b-164b-4aa2-b60a-605d0d3abea7",
+            "MandateId": "677470f9-6766-4045-a773-ef7cc4941e2c",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1650814,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ae9d6e7e-ea72-4265-bfa2-36afab79fb85",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "dff511b3-c14f-4bcc-a3b3-511029babfe9",
+            "MandateId": "40b1bbfa-7223-4e5d-abcd-8f42c020df4e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2802896,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "fb6142ee-45b1-4e7b-9285-df6d80c891ee",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2e1f0a2f-0055-460b-932f-2031e838fe65",
+            "MandateId": "8b4d2c0f-a6b3-4132-8e8a-ff41ee61056b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1534243,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "b5735844-3455-415b-8ec5-2b196f50091e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "12067a19-4d1a-4a99-952a-1ee573f7cd8f",
+            "MandateId": "51736dbe-06d6-4834-b4b7-28b4450950c4",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3850985,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "6d9625c9-fe1d-457c-a2f3-0f5924c2dc8c",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7e6df5a1-dd43-4ffa-8b26-6a3a56c7d9b8",
+            "MandateId": "516c115a-4150-4fa3-aee7-2c61f1201e6c",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8978372,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ae91b786-639c-4808-92ab-72ac731f573e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6218c631-671f-419d-83d5-82aae8f13f3d",
+            "MandateId": "994cb952-1a09-40a4-be91-b43676a649e6",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8065220,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "bacb2ce6-30d4-4dc8-a908-76b8a5f8b17f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "c5f68d86-9509-4889-a4bc-4d0ce002503d",
+            "MandateId": "97b1f620-f43f-400f-ab60-07ad57f1f10b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4729628,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-03-01T00:00:00",
+        "ValueDateTime": "2023-03-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "823f5a6b-6f45-4f15-9552-beba06441856",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "17540571-b97f-4778-bce5-693f03fcead8",
+            "MandateId": "b8834e3e-3485-41d4-8d79-97bbfcf11c50",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230301-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1142163,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "96412516-78af-4708-8b08-ffc93a51c976",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5ce45e14-278a-4eff-8c16-84ed7f7b6d5a",
+            "MandateId": "219eaaa2-0957-4c43-ba2a-ad9a573a42be",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8656577,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "8b4ed328-8759-4e67-9711-7953c4e18ed7",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "b1faeecb-eaeb-4f79-a76b-2b9be262f1b2",
+            "MandateId": "0a4eaed9-c45c-408f-b5e3-2e87dd78ab57",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7159217,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c51b46fa-edc1-40b5-b610-562615929b9e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7212e80f-f658-4584-9872-1ff455d983da",
+            "MandateId": "ca27df5e-318d-41d2-b155-0500474d9a10",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5534540,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e0d3fb5d-75de-4957-9f5c-cb7f2239bec2",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "46e9fe24-b7de-44b8-b612-a31b75537573",
+            "MandateId": "9459e702-2a22-40be-870f-71a1d80cc6d8",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6741440,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "96378e6f-1775-4987-9e20-1d18e938a769",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "31e263c9-862e-4528-91e3-9a688f5529a0",
+            "MandateId": "5c5fecad-076d-4b61-8514-4c94dd15ab15",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7351506,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "d6752e78-1c85-4123-b8a6-299ddf0fc5f1",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "34d46685-ab03-4482-afc6-e305745b9405",
+            "MandateId": "d972f323-9b64-4bf2-b12e-ea6622b5ecf0",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8960462,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "3fee5dc8-8c4d-4f4f-8e80-e291865e3226",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "62353fb2-13bd-4ff6-9cf6-79dcee47e8e6",
+            "MandateId": "783bd70d-9a7a-4196-b6fa-8c72d90e6268",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9835914,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "eacd9dca-5639-4be1-990e-091169c16022",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "34fa819f-6395-4d67-b0f8-1a2012a2f372",
+            "MandateId": "c2ca6c74-ab5e-459d-b901-9e75c0f38579",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5272513,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "6e69e1bc-de98-447d-86ad-7b1e6f0f6890",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "b6f1fa01-3f98-49ed-b2db-ca55bf50f69f",
+            "MandateId": "e210edc1-bd7c-4a4c-8bf0-9e7ef6bcfee0",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8816964,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "02ab823f-e81c-4185-bb1b-691e7f9c060b",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0962589f-cb64-4e24-9389-940414dbf677",
+            "MandateId": "50e06754-0585-4a42-a155-57fad58e6737",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6526693,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "4eaf0e6d-8bb9-47b3-a859-87f8882a5f0e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "c4de2ac9-10a8-4864-97d9-9d12aa4d61d8",
+            "MandateId": "cdf54ec9-bba7-4e16-919c-eb5e4a1a90ee",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5932796,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "3e3d863c-6525-4db0-9f1c-84ff705c9672",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6616a1d3-cb04-4439-87b9-b4b581e593fd",
+            "MandateId": "58da2c71-63db-4de9-bfc0-cb50413c84aa",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9984915,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "49605f51-8581-4710-8185-a22b7f6501cf",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1b7b1dbd-caf5-4f68-b1fc-036273a09e6c",
+            "MandateId": "f53a15a1-7c8c-46bd-9a27-975533d8949c",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6372170,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "4d217a6c-9ff8-4f6e-8df3-e9a3b5d0c20f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "659bbce4-b044-4b8f-acca-4319e723f090",
+            "MandateId": "e25b192a-6c87-424b-852a-2d82328125ff",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4059682,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "6913c7ef-69ce-4daf-83ea-b2dd35fd179d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7d1b61d3-c5f1-4871-a1ed-b4d3b312223b",
+            "MandateId": "2c434e7d-4fad-488f-930b-c6a4a4a8fd10",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 2783430,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-04-01T00:00:00",
+        "ValueDateTime": "2023-04-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "04581ba7-2a7d-43c8-8132-2bbb8c872eb8",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "41579004-137f-4a3e-bbe3-a17931fe12c2",
+            "MandateId": "3a711956-3f94-476e-8b2e-b709ed84efd8",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230401-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1337073,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "5488703a-53db-477b-8ec2-bdd1a7e976b1",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "959f55fb-932c-454c-8424-ae41a903ca5b",
+            "MandateId": "63980b8d-2235-4317-be6d-17605993939b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3075990,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "986a00c1-9ecd-471b-bd5b-2e7d4dabd299",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5662e52e-0015-4cba-a169-e79f7310fcd0",
+            "MandateId": "26a6b406-12e8-4433-bed3-76729f71a470",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8365815,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "4fae7ea3-2e47-437c-a591-ccf13c9950dd",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "a75ea2ac-44da-46b9-aa88-dca84ec4f529",
+            "MandateId": "690c0d5c-ca08-4188-89d5-8a5e1b99cb5b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6497722,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "a18b8dda-afd7-4ac5-9af3-900062266319",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5a9a081b-6631-4743-891d-2ae17b738d58",
+            "MandateId": "1eb6320b-a3e6-41ab-9fb3-7a35b557a6cc",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5952833,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "363d033f-a3c7-47ef-90f0-a5960724d2d2",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "0c19c068-20b2-44a9-b582-3b9b0c83ab95",
+            "MandateId": "82a1edf1-ae73-4785-b68d-09c246a050f4",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5435667,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "fcdf2596-e769-4713-8dc0-5d2d899f3b04",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "acd9ca33-d795-4c77-9e81-66c9ff6087e7",
+            "MandateId": "776e652c-d730-4a3f-9bbc-35a95d99ccec",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1256484,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e52a590c-5484-4404-9f1a-b3e2ef38037e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "16844769-3a8e-4ab5-bd5a-6e3403510c03",
+            "MandateId": "185e7ea7-3a56-4457-af0f-c3a370b4b1c7",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1200257,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "8ce5c9c3-3ca5-482e-a148-1138e21f06d5",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f58f8e97-5bc5-456a-a135-53ee7e744418",
+            "MandateId": "af26c50b-c7fa-4645-a943-3225c3489804",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3369167,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "937d686a-06a9-495a-a3e5-61da2137d328",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f905815c-9020-452f-a801-2cca850c0e44",
+            "MandateId": "d0df42f5-5b37-47ee-9178-f3d59d94ed4a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5554679,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "b5559f6f-c5a3-4e11-bfd0-6e0a45d42beb",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "94bee7c1-a5c0-4f60-9d2e-adad489273f2",
+            "MandateId": "e3600fcc-0776-4919-b181-9f6bce14191e",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6977594,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "0aa116fb-254e-4e03-a0fd-63a163d654b3",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "714885af-4d0f-4d16-9518-a990e433ae4d",
+            "MandateId": "93912c9b-2af7-4395-b88d-718f0667a86a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3975361,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "1322699e-ccfe-452f-85a7-8411f987f866",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "5dba73c4-c5c8-45b4-89c2-6c6d97468894",
+            "MandateId": "0df9c66a-a5ec-4d6e-a27e-860e21fee651",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 6527489,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "79a430f1-4b36-4b31-8f01-b0e70712ac6c",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "ae1f18a1-e65d-4acf-a739-89f9a47e0f96",
+            "MandateId": "ba14366b-0f12-4072-86c3-1c94cd4654f4",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1534404,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "edd060b8-b99c-43c5-8b17-f17b532f2667",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "eacf1235-b4b8-4760-8af0-5f452c106163",
+            "MandateId": "8f58be37-1392-4ede-9d2b-6a0ecabebb70",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 9403644,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "aa90a36c-2975-476c-9905-020b7586cd5d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "52a137ec-9186-4bd2-b290-824ef56d8f32",
+            "MandateId": "bf5742ea-c54a-4520-a902-614aab3ee55a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7147804,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-05-01T00:00:00",
+        "ValueDateTime": "2023-05-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "90c7e38b-a66d-4d35-af83-f0aa4abe65ce",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "829dbc64-1e9b-49ce-a9f3-bb6f7f3b2f2e",
+            "MandateId": "75850802-d6d8-46cc-93c4-856d511ed454",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230501-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1530343,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "842746a4-d9fa-4246-8366-ba41f84a2d8f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "32880ed5-61a7-4e81-941a-05d09d704b4a",
+            "MandateId": "cf566e56-7ac5-4bc2-9c53-f5ca3fc410c7",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8016486,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "038f0313-91cd-4ae2-ad1d-57b19ec0c433",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "8a688c12-5999-4928-b0c2-28ac6d16d528",
+            "MandateId": "b027370d-28a3-4d11-bc98-2df7f48ae460",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1374989,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "f5d114eb-b630-49bc-babb-42995dcac4fc",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "77a384cd-8dc0-4798-bccf-267db4d9c6fc",
+            "MandateId": "9e9752a1-25e3-41c6-bba7-708ff8eff78a",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7219158,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "8c3ae91a-58cf-425c-9632-6d99e3fb2e9e",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "e5fa3a5f-ae3a-4aea-bcb6-3f0a4ae22e53",
+            "MandateId": "6a36ec08-0d99-43d5-8ee6-4d4db6478aff",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3400000,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "fbaa546e-8830-49ac-a63a-ca1e066e54cb",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "b5c62778-4a34-45d3-875f-bc07e16950e9",
+            "MandateId": "6360493e-c782-4a7e-947f-ec70baca511c",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 4987552,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "6c39e203-8988-4014-a124-eab2a4c35417",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "7491e20a-0728-4d31-89eb-0ec23deede8a",
+            "MandateId": "b89771ea-a7b6-47c8-a749-6e35006f1ebe",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1529548,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "5a36e547-f840-4eaf-969f-08283f018c9d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "2a55fb9c-eaed-4a46-8f57-3042fb78bc91",
+            "MandateId": "beb05587-1afd-47b3-b1f5-535b0a68e881",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5963813,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "551e8f94-3b3f-4d00-a7fe-3b88b1a98abc",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f1b12903-487a-4ebc-9973-2d6920ad34d4",
+            "MandateId": "7c12c8d6-d38f-4d28-8d5f-89464dcd997d",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5868206,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e083a5ef-4396-40d6-9ef3-611703b68f5f",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "f0b961a3-7f58-4ba6-8b1a-ad691b4dc9bc",
+            "MandateId": "e1f2c395-336f-4a07-8de5-026d984ff9b5",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8531744,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "b53772d8-8033-4752-a8cd-16e0852ee5cd",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "6ef3cb46-9274-49df-8e17-b597f34d1e5f",
+            "MandateId": "c5324921-0d6e-49be-ab87-68ecca20cde4",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8148256,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "e6305444-99dc-40b7-8f58-edcf7ff89ace",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "58a7172d-cbaa-41ea-b45e-fa4b409a0e48",
+            "MandateId": "6b3fc395-a210-4f63-8679-31e843fa2e31",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 1300462,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "dcd35a90-4908-42a8-b528-43d5f0c67c92",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "1493528b-0cb7-4020-ab00-c3a08544158a",
+            "MandateId": "354f5344-1e70-40e7-8a4d-63f54d47dc26",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 3997029,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "ebfc9d70-1323-4994-b0f4-bc6a1cc4fa4d",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "fdbb6a73-0059-4b50-b914-3cd43e389499",
+            "MandateId": "8d164e4e-a1d7-4d13-821f-e6e13aba81d9",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 7603674,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "9953a673-7996-4d8f-87f0-7e028490c0cf",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "3678013b-abeb-4701-9b90-c1efcc59a08a",
+            "MandateId": "a9930adb-b904-4ad2-bf5c-04ede25acef7",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 8342390,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "c0008052-3ac5-4d73-8b49-043ea36d8bb2",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "76fad927-3962-4094-ad5c-9045a34bbe4b",
+            "MandateId": "08b580d4-fc7b-42fb-872f-9cb670b642e6",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    },
+    {
+        "TransactionId": 5289695,
+        "Amount": 5000.0,
+        "Currency": "EUR",
+        "CreditDebitIndicator": "CRDT",
+        "Status": "BOOK",
+        "BookingDateTime": "2023-06-01T00:00:00",
+        "ValueDateTime": "2023-06-01T00:00:00",
+        "RemittanceInformationUnstructured": "Salary Payment",
+        "BankTransactionCode": {
+            "Domain": {
+                "DomainCode": "PMNT",
+                "FamilyCode": "RCDT",
+                "SubCode": "SALA"
+            },
+            "Proprietary": {
+                "Code": "SalaryPayment",
+                "Issuer": "BG"
+            }
+        },
+        "CreditorAgent": {
+            "Identification": "creditor_agent_identification"
+        },
+        "CreditorAccount": {
+            "Identification": "DE78900900424711121212",
+            "SchemeName": "IBAN",
+            "Name": "Hansi Meier",
+            "Currency": "EUR"
+        },
+        "DebtorAgent": {
+            "Identification": "debtor_agent_identification"
+        },
+        "DebtorAccount": {
+            "Identification": "DE87123456781234567891",
+            "SchemeName": "IBAN",
+            "Name": "Elias Book Store",
+            "Currency": "EUR"
+        },
+        "PurposeCode": "SALA",
+        "RemittanceInformationStructured": {
+            "Reference": "f484e128-e37d-4143-8cae-72781bd3277b",
+            "Type": "SCOR",
+            "Issuer": "ISO"
+        },
+        "References": {
+            "EndToEndId": "e285c4dd-89f3-43f5-9ef5-022834f08e86",
+            "MandateId": "aa6285be-1b32-49ec-b9a4-c333e463250b",
+            "ChequeNumber": "check3",
+            "TransactionReference": "20230601-000000"
+        },
+        "RelatedParties": {
+            "CreditorId": "creditor3",
+            "UltimateCreditor": "Hansi Meier U",
+            "UltimateDebtor": "Elias Book Store U"
+        }
+    }
+]
